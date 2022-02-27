@@ -1,0 +1,779 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The golden mean: being some serious considerations, together with some cases of conscience resolved; for a more full, and frequent administration of, yet not free admission unto, the sacrament of the Lord's Supper. / By Stephen Geree, minister of God's word, and pastor of the Church of Abinger in the county of Surrey.</title>
+            <author>Geree, Stephen, 1594-1656?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 118 KB of XML-encoded text transcribed from 56 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85952</idno>
+            <idno type="STC">Wing G607</idno>
+            <idno type="STC">Thomason E1667_1</idno>
+            <idno type="STC">ESTC R208393</idno>
+            <idno type="EEBO-CITATION">99867349</idno>
+            <idno type="PROQUEST">99867349</idno>
+            <idno type="VID">119656</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85952)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119656)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 209:E1667[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The golden mean: being some serious considerations, together with some cases of conscience resolved; for a more full, and frequent administration of, yet not free admission unto, the sacrament of the Lord's Supper. / By Stephen Geree, minister of God's word, and pastor of the Church of Abinger in the county of Surrey.</title>
+                  <author>Geree, Stephen, 1594-1656?</author>
+               </titleStmt>
+               <extent>[26], 81, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joseph Cranford, and are to be sold at the Kings head in St Pauls Church Yard,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Final leaves = advertisement.</note>
+                  <note>Annotation on Thomason copy: "feb 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lord's Supper --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119656:1" rendition="simple:additions"/>
+            <p>THE Golden Mean: BEING Some ſerious Conſiderations, together with ſome Caſes of Con<g ref="char:EOLhyphen"/>ſcience reſolved; for a more full, and frequent Adminiſtration of, yet not free Admiſſion unto, the Sacrament of the Lord's Supper.</p>
+            <p>By <hi>Stephen Geree,</hi> Miniſter of God's Word, and Paſtor of the Church of Abinger in the <hi>County</hi> of <hi>Surrey.</hi>
+            </p>
+            <q>
+               <p>Toleramus quae nolumus, ut perveniamus quò volumus.</p>
+               <bibl>Auguſt. contra Donatiſtas, Cap. 20.</bibl>
+            </q>
+            <q>Miniſter Eccleſiae, ubi non viget excommunicatio, excuſatus eſt, modo non volens det coenam abutentibus, ſed inſtet mo<g ref="char:EOLhyphen"/>nendo, &amp; c<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>piat cavere abuſus. <bibl>Urſinus. ut eſt apud Magiſt. Bowles in Patore Evang: lib. 3. Cap. 5. pag. 193.</bibl>
+            </q>
+            <q>If thou warn the wicked of his way, to turn from it; if he do not turn from his way, he ſhall die in his iniquity, but thou haſt delivered thy ſoul, <bibl>
+                  <hi>Ezek.</hi> 33.9.</bibl>
+            </q>
+            <p>LONDON, Printed for <hi>Joſeph Cranford,</hi> and are to be ſold at the Kings head in St <hi>Pauls</hi> Church yard, 1656.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:119656:2"/>
+            <pb facs="tcp:119656:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I conſider that moſt pathetical Praier of our dear Saviour for all his Diſciples, not long before his death; Joh. 17.20, 21. <hi>That they all might be one, as the Father was in him, &amp; he in the Father; that they alſo might be one in them,</hi> (and for this canſe) <hi>that the world might believe, that the Father had ſent him;</hi> Intima<g ref="char:EOLhyphen"/>ting that the unity of Chriſtians is an eſpeciall means, to convince the world, that Jeſus was the Meſſias; and conſequently to convert them unto Chriſt; It troubles me not a little, to ſee ſuch ſtrange differen<g ref="char:EOLhyphen"/>ces and diviſions among true Chri<g ref="char:EOLhyphen"/>ſtians, whereby the world, that
+<pb facs="tcp:119656:3"/>ſhould be won by our ſingular love and unity, is utterly diſtaſted, and ſo diſaffected to the true Religion of Chriſt.</p>
+            <p>Little do ſom of the ſeparation conſider, how diſhonourable, and diſadvantagious it is to Chriſt, and his Spouſe the Church, to be guil<g ref="char:EOLhyphen"/>ty of ſuch a great ſin, as ſchiſme is; otherways, I am perſwaded, they would with both hands indeavour to make up the breaches that they have made in our Churches, and that eſpecially in regard of the Lord's Supper, a Sacrament of our Spiritual Union and Communi<g ref="char:EOLhyphen"/>on with Chriſt, our bleſſed Sa<g ref="char:EOLhyphen"/>viour.</p>
+            <p>O! that they would at length ſadly conſider, how little good that reformation is like to work, which only reforms ſuch, as they ſuppoſe already reformed; accepting none into viſible Church-fellowſhip in
+<pb facs="tcp:119656:3"/>this Ordinance, but thoſe whom they judge really gracious (con<g ref="char:EOLhyphen"/>trary to the practiſe of all other re<g ref="char:EOLhyphen"/>formed Churches); mean while neglecting, if not deſpiſing all the reſt, whom they ſhould rather pity, and not thus provoke; whereby they do either exaſperate, or diſ<g ref="char:EOLhyphen"/>courage them, although they judg them to ſtand in moſt need of their help.</p>
+            <p>Neither is the injury ſmall, which in this caſe ſome Miniſters ſuffer, in that they are robbed of ſome of their choiceſt children; begotten by their faithfull,
+<note place="margin">1 Cor. 4.15 1 Theſ, 2.19, 20.</note> and painful Miniſtery, who were the crown and comfort of their Spiri<g ref="char:EOLhyphen"/>tual fathers, while they remained with them, and were as ſtakes in the hedges of their ſeverall Churches, and might ſtill have been lively patterns to their other people, had they not been (as the
+<pb facs="tcp:119656:4"/>Apoſtle ſaith) bewitched, with ſpecious pretences of a more pure and primitive Communion.</p>
+            <p>And verily had it been for their own advantage, and ſpirituall gain, as is imagined, it would not ſo much aflict us, and we would have held our peace, although it would not have countervailed our dam<g ref="char:EOLhyphen"/>mage, but when we ſadly ſee, how by this means many of them get ſuch an itch after novelties, and an humour of changing, that they are ready to receive any up ſtart opi<g ref="char:EOLhyphen"/>nions, or old rotten hereſie, newly revived, ſo that they gad from Church to Church, till no Church is thought good enough for them, and till at laſt ſome of them utterly loſe all that Religion that they ſeemed to have; being elevated, not only above Ordinances, and Scripture, but above God himſelf <hi>(horreſco referens)</hi> holding that
+<pb facs="tcp:119656:4"/>there is neither Heaven nor Hell, neither God nor Devill; and ſo are <hi>become two-fold more the chil<g ref="char:EOLhyphen"/>dren of Hell</hi> than thoſe they for<g ref="char:EOLhyphen"/>merly ſeparated from. This muſt needs be a moſt ſad and ſoul<g ref="char:EOLhyphen"/>breaking ſpectacle!</p>
+            <p>And whence is the root and riſe of all this? chiefly from that licen<g ref="char:EOLhyphen"/>tious principle, <hi>that men have li<g ref="char:EOLhyphen"/>berty to be of what Congregation they will;</hi> and ſo after that they have made a rent in their own Church, they think, when they pleaſe, or are diſpleaſed, they may make another, and ſo another, as long as they liſt,
+<note place="margin">Mat. 23.15</note> if their wandring ſpirit ſhal but move them; which I wonder ſome of the wiſer ſort of them do not ſee, and if they ſee it, do not ſeek to prevent it; and ceaſe to gather Churches out of church<g ref="char:EOLhyphen"/>es. Surely there's far more need to gain men really unto Chriſt, than
+<pb facs="tcp:119656:5"/>to gather Churches out of Churches, to the great grief of godly Church-membets; who are not a little troubled at ſuch in<g ref="char:EOLhyphen"/>ordinate courſes.
+<label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> And whereas ſome of them queſtions the truth of our Churches, and thereupon may preſume they do us no wrong.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I anſwer, that ſome of the moſt ſober and learned Independents do ingenuouſly confeſs,
+<note place="margin">See, <hi>jus di<g ref="char:EOLhyphen"/>vini Mini<g ref="char:EOLhyphen"/>ſterii. Aug,</hi> p. 47.48.</note> that we have true Churches; and there<g ref="char:EOLhyphen"/>fore ſome that deny it, do ſhame<g ref="char:EOLhyphen"/>fully defile their own neſts; by this means making their Mother an whore, and themſelvs baſe-be<g ref="char:EOLhyphen"/>gotten; being firſt bred and born Chriſtians in our Congregations.</p>
+            <p>And if we have true Churches, how can they make ſuch rents a<g ref="char:EOLhyphen"/>mong us? and not be guilty of that great ſin of Schiſme, which now cries lowder in God's ears than for<g ref="char:EOLhyphen"/>merly,
+<pb facs="tcp:119656:5"/>becauſe multiplied beyond meaſure.</p>
+            <p>And as for my brethren that ſuf<g ref="char:EOLhyphen"/>fer with me in this caſe, and that for fear of offending them, and o<g ref="char:EOLhyphen"/>thers, have abſtained from admini<g ref="char:EOLhyphen"/>ſtring the Lord's Supper; which is acknowledged to be an Ordinance of excellent uſe; and therefore not only the abuſe, but alſo the diſ<g ref="char:EOLhyphen"/>uſe is no ſmall ſin; I have with all tenderneſs, avoiding all bitterneſs, indeavoured to incourage them, to a more full and frequent celebrati<g ref="char:EOLhyphen"/>on of this holy Supper; having, as I hope, clearly demonſtrated, that there is no ſuch danger in de<g ref="char:EOLhyphen"/>livering this Sacrament, to moſt of our Church-members that are of age and underſtanding, as many do imagine; Always provided, that the Miniſters inſtruct and catechize them in the grounds of Religion, and particularly about the nature
+<pb facs="tcp:119656:6"/>of the Sacraments, as ſeals of the Covenant of grace, teaching them how to receive worthily, and tel<g ref="char:EOLhyphen"/>ling them the danger of unworthy receiving, perſwading them care<g ref="char:EOLhyphen"/>fully to renew their Covenant with God, which they made in Ba<g ref="char:EOLhyphen"/>ptiſme, by repenting truly of their ſins; and ſtirring up their faith to lay faſter-hold on Jeſus Chriſt for the remiſſion of ſins; thankfully acknowledging the love of the Lord Jeſus in ſhedding his blood for the pardon of ſin; he likewiſe conſecrating the elements with ho<g ref="char:EOLhyphen"/>ly reverence, and godly ſimplicity, abandoning all ſuſpitious ceremo<g ref="char:EOLhyphen"/>nies, and humane inventions. And if after all this they will come in their ſins; and <hi>ſo eat and drink judgment to themſelvs, their blood ſhal be upon their own heads; the Miniſter hath given them ſufficient warning, and ſo hath delivered his
+<pb facs="tcp:119656:6"/>own ſoul.</hi> But in caſe any groſly ignorant, or ſcandalous, ſhould (to the offence of others) preſume to come to this holy Communion, I have delivered my opinion to this purpoſe; That ſeeing the Word of God is ſilent in this particular of the Sacrament, and only ſpeaks of Excommunication, which is a caſt<g ref="char:EOLhyphen"/>ing out of all Communion, and not from the Sacrament only; &amp; we have no ſettled Church-go<g ref="char:EOLhyphen"/>vernment, at leaſt owned; and back'd by publick authority, to ex<g ref="char:EOLhyphen"/>erciſe ſuch a ſevere ſentence a, Excommunication is:
+<note place="margin">M<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3.<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4.</note> therefore if but two or three ſufficient per<g ref="char:EOLhyphen"/>ſons of the Congregation, will te<g ref="char:EOLhyphen"/>ſtify the ſcandall or ignorance, the Miniſter in ſuch a caſe may openly examine the ignorant: and if the ignorance appear groſſe and child<g ref="char:EOLhyphen"/>iſh; he is as well to be refuſed as one under age. And for the
+<pb facs="tcp:119656:7"/>groſly ſcandalous, <hi>they are openly to be admoniſhed;</hi> and if for the pre<g ref="char:EOLhyphen"/>ſent they profeſſe hearty ſorrow, and promiſe amendment, they may be admitted; and if they do this in hypocriſie, it is at their own perill onely. But if they prove obſtinate, and for want of power cannot be legally excom<g ref="char:EOLhyphen"/>municated,
+<note place="margin">Mat. 5.23.24.</note> the Miniſter may charge them to forbear; telling them what they deſerve,
+<note place="margin">1 <hi>Cor.</hi> 5.11.13. 2 Theſ. 3.6.14.</note> and warne o<g ref="char:EOLhyphen"/>thers to with-draw from them; as the Apoſtle doth concerning ſuch, all which muſt be done with much <hi>meekneſſe of wiſdom, and charitie.</hi> If any think, that notwithſtanding theſe cautions, too much liberty is given, to let in ſo many. I ſhall anſwer with theſe words of Reverend and learned Maſter <hi>Baxter.</hi> 
+               <q rend="margQuotes">I never found (ſaith he) one word in Scripture, where Chriſt and his Apoſtles,
+<pb facs="tcp:119656:7"/>denied admittance to any man that deſired to be a member of the Church, though not onely pro<g ref="char:EOLhyphen"/>feſſing to repent, and believe;
+<note place="margin">
+                     <hi>Saints reſt</hi> part 4 § 3. page 104.</note> nei<g ref="char:EOLhyphen"/>ther did I ever there ſinde, that a<g ref="char:EOLhyphen"/>ny but convicted hereticks, or ſcandalous ones (and that for the moſt part after due admonition) were to be avoyded, or debarred, our fellowſhip. And again a little after, he ſaith; Their being bap<g ref="char:EOLhyphen"/>tized perſons (if at age) is ſuffici<g ref="char:EOLhyphen"/>ent evidence of their intereſt to the Supper, till they do by hereſie or ſcandall blot that evidence. Thus M. <hi>Baxter.</hi>
+               </q>
+            </p>
+            <p>
+               <q rend="margQuotes">And indeed it were a ſad thing,
+<note place="margin">
+                     <hi>vide Blake Cov. ſealed</hi> page 130.</note> for Miniſters (as M. <hi>Hudſon</hi> hath wel obſerved) if they were bound to admit none, or adminiſter the Lord's Supper to none, but ſuch as were truly godly; or that they judged in their conſciences to be ſo; or were bound to eject all,
+<pb facs="tcp:119656:8"/>that they judged were not ſo. <bibl>
+                     <hi>Hudſon of the univerſ. viſib. Church</hi> page 249.</bibl>
+               </q>
+            </p>
+            <p>And there is great reaſon for this that he ſaith, firſt, becauſe God ne<g ref="char:EOLhyphen"/>ver puts us upon the ſcearching of other mens hearts, but our own; in this particular: Secondly, be<g ref="char:EOLhyphen"/>cauſe 'tis more than probable, that this Ordinance doth much conduce to converſion, or regeneration; as is proved in the enſuing diſcourſe, and more at large by learned M. <hi>Blake;</hi> which though it ſeem con<g ref="char:EOLhyphen"/>trary to the opinion of many of our orthodox Divines, who ſpeak of this Ordinance, as being meat to ſeed, and not ſeed to beget new life; yet ſhall we finde, that generally in their practiſe, they made no ſcruple to deliver this Sacrament to all knowing perſons, that were not ſcandalous, nei<g ref="char:EOLhyphen"/>ther did they turn any away,
+<pb facs="tcp:119656:8"/>meerly becauſe they judged them unregenerate.</p>
+            <p>If it be further objected, that our Divines require Repentance and Faith in all that come to this holy Table, therefore they do not count it a converting Ordinance.</p>
+            <p>I anſwer, that the ſame graces are required to the perfor<g ref="char:EOLhyphen"/>mance of thoſe Ordinances, which all confeſſe to be con<g ref="char:EOLhyphen"/>verting, <hi>viz.</hi> Prayer and hearing Gods Word, for the Scripture ſaith that unleſſe men pray and hear with Faith, repenting &amp;c. they pray and hear in vain, ſee <hi>James</hi> 1.5, 6, 7. <hi>Heb.</hi> 4.2. and yet theſe two Ordinances are chief meanes to beget Faith and Re<g ref="char:EOLhyphen"/>pentance, <hi>Romans</hi> 10.14, 17.
+<note place="margin">Pſal. 66.18. Luk. 24.47.</note> 
+               <hi>Acts</hi> 2.37, 38.</p>
+            <p>But thne you will ſay, why ſhould any at all, being of years,
+<pb facs="tcp:119656:9"/>be kept back from this Ordinance, if it be ſuch an help to con<g ref="char:EOLhyphen"/>verſion?</p>
+            <p>I anſwer with learned M. <hi>Blake:</hi> Every Ordinance that is for converſion, is not meet to be appli<g ref="char:EOLhyphen"/>ed to every one in an unconverted condition; he inſtanceth in re<g ref="char:EOLhyphen"/>proof, which is a means to convert; becauſe it is called <hi>the reproof of life,</hi> Prov. 6 23. yet <hi>reprove not a ſcorner,</hi> ſaith Solomon, <hi>leaſt he hate thee,</hi> Prov. 9.8. So we may forbid this Sacrament; to ſome obſtinate ſinners, that declare their ſins like Sodome, becauſe ſome other more ſevere courſ is beſt for them, that may make them aſhamed, as I ſhewed before; ſeeing fair means will not work on ſuch, but onely foul, they muſt have ſome corra<g ref="char:EOLhyphen"/>ſives to eat out the proud fleſh. To conclude, I hope, my long-known
+<pb facs="tcp:119656:9"/>practiſe, and principles, againſt profaneneſſe, will apologize for me in this particular; that I have not done any thing (in allowing this liberty) to patronize any ſin in the leaſt, ſeeing I judge this the moſt profitable courſ to keep ſom more within compaſſe, and alſo to keep up Religion, which hath much decayed ſince this Sacrament hath been ſo much diſuſed. I ſay no more but commend that which is done to the bleſſing of God, whoſe power is made perfect in mans weakneſſe,
+<note place="margin">2 Cor. 12.9 Eph. 3.20.</note> and who is able to do exceeding abundantly even a<g ref="char:EOLhyphen"/>bove all we can ask, or think.</p>
+            <closer>
+               <dateline>From my Study <date>
+                     <hi>July</hi> 30. 1656.</date>
+               </dateline>
+               <signed>Stephen Geree.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:119656:10"/>
+            <pb facs="tcp:119656:10"/>
+            <head>AN Advertiſement to the READER.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hile this ſmal enſuing Diſcourſe was at the Preſs, there came hap<g ref="char:EOLhyphen"/>pily to my hands, that learned and elaborate Treatiſe of the rarely accompliſht and eminent Divine, <hi>M<hi rend="sup">r</hi> Richard Vines,</hi> concerning the Sacrament of the Lord's Supper, wherin amongſt other Queſtions, he handles this alſo; Whether the Sacrament of the Lord's Supper be a converting Ordinance? which he determines on the nega<g ref="char:EOLhyphen"/>tive. Now leaſt ſome ſhould think that this is flat contrary to what I
+<pb facs="tcp:119656:11"/>have wriiten, and ſo be ſtumbled at the ſame. I would have it well con<g ref="char:EOLhyphen"/>ſidered, that <hi>M. Vines</hi> doth labour onely to prove that this Sacrament is no Converting Ordinance in the (primary) intent of it, <hi>&amp; perſe</hi> which I do not deny, affirming onely that it doth much conduce to the con<g ref="char:EOLhyphen"/>verſion of a knowing baptiſed per<g ref="char:EOLhyphen"/>ſon, that is not ſcandalous; as it is conſidered with all neceſſary circum<g ref="char:EOLhyphen"/>ſtances; being always adjoined, or added unto the Word, according to that old ſaying of Auſtine. <hi>Accedat verbum ad elementum &amp; fit Sa<g ref="char:EOLhyphen"/>cramentum;</hi> Hence I conclude that the Word barely preach'd, without the Sacrament, as a ſeal to confirme it; cannot ordinarily be ſo effectu<g ref="char:EOLhyphen"/>all to beget Faith and Repentance: as when both are conjoined, as a Bond ſealed is of more force, to make a man believe, he ſhall have a promiſed debt, than one that is
+<pb facs="tcp:119656:11"/>unſealed, and therefore I ſuppoſe the Sacrament doth further conver<g ref="char:EOLhyphen"/>ſion, not meeerly <hi>ex accedenti;</hi> but rather <hi>ex conſequenti;</hi> and though not directly, yet indirectly; which is ſufficient to my purpoſe. The primary intent of this Sacra<g ref="char:EOLhyphen"/>ment, is to keep a memoriall of Chriſt's death, and ſeal or confirme the Covenant of Grace; and it doth but ſecondarily confirme our Faith and ſtrenthen other graces, and why it may not have other ſecondary ef<g ref="char:EOLhyphen"/>fects in ſome, (who have but com<g ref="char:EOLhyphen"/>mon grace, and yet are bound in con<g ref="char:EOLhyphen"/>ſcience to uſe this Ordinance, hav<g ref="char:EOLhyphen"/>ing a legall right unto it) I ſee not. Seeing it lays an ingagement upon all receivers, to renew their Cove<g ref="char:EOLhyphen"/>nant with God, and labour for thoſe true graces, whereby they may receive the full benefit of this Ordinance.</p>
+            <p>Eſpecially conſidering that this
+<pb facs="tcp:119656:12"/>Sacrament teacheth the eye, as the Word doth the ear; and is confeſſed alſo to be an heart-breaking and heart-melting Ordinance; when they ſhall ſee Christ, as it were, cru<g ref="char:EOLhyphen"/>cified before their eyes, for the re<g ref="char:EOLhyphen"/>miſſion of ſins.</p>
+            <p>Beſides, it's worthy to be conſi<g ref="char:EOLhyphen"/>dered, that this learned <hi>M. Vines,</hi> not long before his death, and ſince he preached theſe Sermons, now newly publiſhed, did prefix an Epiſtle to Reverend <hi>M. Blake</hi> his Book, of the Covenant ſealed, with high praiſes, both of the <hi>Author</hi> and the Book; commending it to many Miniſters, as a thred to direct them, out of thoſe Labyrinths and perplexities, about adminiſtration of this Sacrament; which have vexed very many.
+<note place="margin">Blakes Co<g ref="char:EOLhyphen"/>venant ſeal <hi>page.</hi> 189 § 11. <hi>propoſ.</hi> 9.</note> Now in that Book <hi>M. Blake</hi> proves &amp; holdes, that this Sa<g ref="char:EOLhyphen"/>crament (no more than other Ordi<g ref="char:EOLhyphen"/>nances) is not limited to thoſe
+<pb facs="tcp:119656:12"/>that have received a new life in Chriſt by the Spirit; and that others as they may be admitted without ſin, ſo they are in a capacity and poſſibi<g ref="char:EOLhyphen"/>lity to receive benefit from it. And again, he hath another Aſſertion; That the Lord's Supper, with the Word as an appendant to it, may be ſerviceable to bring a man of Cove<g ref="char:EOLhyphen"/>nant-intereſt up to the termes of the Covenant, <hi>page 200. Sect. 13. Propoſ. 11.</hi>
+            </p>
+            <p>Beſides, <hi>M. Vines</hi> himſelf <hi>pag. 252.</hi> hath theſe very words: <hi>If one be a baptized perſon, a knowing profeſſor of the Goſpel, againſt whom there lies no bar of notorious ignorance, or ſcan<g ref="char:EOLhyphen"/>dall; though it appear not that he is truly regenerate, yet he hath admittance; he claims upon ſuch a right, as the Church cannot juſtly diſal<g ref="char:EOLhyphen"/>low, no more than an Iſra<g ref="char:EOLhyphen"/>elite
+<pb facs="tcp:119656:13"/>circumciſed, and clean, could be debarred the Paſſeover; and</hi> pag, <hi>254. unto admittance to the outward Ordinance Regenera<g ref="char:EOLhyphen"/>ted is not neceſſary.</hi> And yet more plainly to this purpoſe pag. <hi>350. If it was known to me (ſaith he) that a man was not regenerate, I durſt give him the Sacrament, yea I muſt, untill he be orderly convict of ſin that may debar him, for the Rule of Gods Word is beſt reaſon; and the Rule eſtabliſhes an order,</hi> If he hear not the Church, let him be to thee a Heathen and a Publican, <hi>un<g ref="char:EOLhyphen"/>till then; and not upon my private knowledg, he is not to be an Hea<g ref="char:EOLhyphen"/>then to me.</hi> Thus he, Now ſeeing Chriſt himſelf hath not injoined his Church to prehibit all unregenerate perſons, yea hath injoined her to ex<g ref="char:EOLhyphen"/>hibit to ſuch, and ſuch, though un<g ref="char:EOLhyphen"/>regenerate; as this moſt learned and
+<pb facs="tcp:119656:13"/>holy man holds; hence I gather, that this Sacrament muſt needs be of ſom ſpecial uſe to ſom ſuch, elſe God would certainly have prohibited it; eſpecially if it had been ſo dangerous to adminiſter it to ſuch, as ſome ſup<g ref="char:EOLhyphen"/>poſe it; whereas on the other ſide it is very dangerous for any ſuch to neglect this Sacrament; as it was to them that neglected the Paſſeover. See Numbers <hi>9.13. The man that (is clean</hi> viz. legally which was ſpo<g ref="char:EOLhyphen"/>ken of before) <hi>and is not in a jour<g ref="char:EOLhyphen"/>ney and forbeareth to keep the Paſſeover; even the ſame ſoul ſhall be cut off from his people; and mark the reaſon, becauſe he brought not the offering of the Lord in his appointed ſeaſon, That man ſhall bear his ſin.</hi> What ſin then are they like to bear, that care not to bring this offering of Lord, in
+<pb facs="tcp:119656:14"/>that holy Supper in any ſea<g ref="char:EOLhyphen"/>ſon, but neglect it for a long ſeaſon? And I leave the Treatiſe to thy candid conſide<g ref="char:EOLhyphen"/>ration, and reſt.</p>
+            <closer>
+               <signed>Thine in the Lord, <hi>Stephen Geree.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:119656:14"/>
+            <head>SOME Serious Conſiderations, Together with ſome <hi>Caſes of Conſcience.</hi> RESOLVED: For a more full and frequent Ad<g ref="char:EOLhyphen"/>miniſtration of, yet not free Admiſ<g ref="char:EOLhyphen"/>ſion unto the Sacrament of the <hi>Lord's Supper.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving for a long time ſad<g ref="char:EOLhyphen"/>ly and ſeriouſly conſider<g ref="char:EOLhyphen"/>ed the almoſt-inſupporta<g ref="char:EOLhyphen"/>ble burthen that lies upon the backs of Miniſters, <hi>Onus ipſis Angelis formidandum,</hi> as one hath long ſince termed it; and weighing withall the dangerous diſtractions and diviſions in our Churches, which are the myſtical body of Chriſt, and ſhould be like his Garment, ſeamleſſe, and without rent; alwaies indeavouring to keep the unity of the Spirit in the
+<pb n="2" facs="tcp:119656:15"/>bond of peace; I have eſteemed it a moſt happy and heavenly work, (though hard and difficult,) to have an hand in compoſing theſe controverſies, or con<g ref="char:EOLhyphen"/>tributing any thing, whereby peace &amp; unity may be in ſome meaſure procu<g ref="char:EOLhyphen"/>red, and true piety reſtored and advanc<g ref="char:EOLhyphen"/>ed; which hath been ſo much hinder<g ref="char:EOLhyphen"/>ed, and almoſt utterly exſtinguiſh'd, in many places and perſons, by reaſon of our ſcandalous &amp; diſtracting differences; and that eſpecially about Diſcipline.</p>
+            <p>For hereupon, many not able or not willing, to diſtinguiſh between Do<g ref="char:EOLhyphen"/>ctrine and Diſcipline, (the former, to wit, Doctrine remaining ſtill the ſame, ſound and ſaving; notwithſtanding the variety, and ſeeming contrariety of Diſcipline) hereupon I ſay ſome are deterred from Religion it ſelf, and o<g ref="char:EOLhyphen"/>thers ſo offended and ſtagger'd, that be<g ref="char:EOLhyphen"/>ing in a maze they ſcarce know which way to ſteer their courſe, ſo that they becom altogether unſettled &amp; irreſolute in their Religion to the great diſhonor of God, the diſgrace of their religion &amp; their own dammage; as alſo to the hard<g ref="char:EOLhyphen"/>ning of unholy ones in their wicked ways,
+<pb n="3" facs="tcp:119656:15"/>and carnal courſes, who hence take oc<g ref="char:EOLhyphen"/>caſion to ſooth themſelvs in their ſup<g ref="char:EOLhyphen"/>poſed conſtancie, though indeed it be no better than contumacie, or meer obſti<g ref="char:EOLhyphen"/>nacie againſt the clear light of the Go<g ref="char:EOLhyphen"/>ſpel of Chriſt.</p>
+            <p>For ſay they, to what end ſhould we be ſo ſcrupulous, and preciſe in matters of Religion; ſeeing few or none of the moſt zealous are well agreed amongſt themſelvs; one holding forth one way, others another way, and a third differ<g ref="char:EOLhyphen"/>ing from both of them, (to name no more) and all with a great deal of ea<g ref="char:EOLhyphen"/>gerneſſe and confidence. For theſe men have forgotten, or rather do not regard to know, that even in the Apo<g ref="char:EOLhyphen"/>ſtles daies there were the like factions and differences, when <hi>one ſaid,</hi>
+               <note place="margin">1 Cor. 15.12.</note> 
+               <hi>I am of Paul; another ſaid, I am of Apollo; and a third ſaid, I am of Cephas; and a fourth renounced all the reſt, as it ſeems, and pre<g ref="char:EOLhyphen"/>tended to be onely for Chriſt,</hi> as ſome do now amongſt us, decrying all Miniſters and Miniſtry of men, and ſeem to bee onely for Chriſt's immediate teaching by his Spirit; who though they think they have the faireſt pretence, yet I am
+<pb n="4" facs="tcp:119656:16"/>afraid they will fall upon the fouleſt concluſions in the end, as we ſee by ſad experience in ſome ſuch already.</p>
+            <p>Likewiſe thoſe formerly mentioned, that are ſo much offended at our pre<g ref="char:EOLhyphen"/>ſent Divilions (which we ſee the very Apoſtles could not prevent) do not conſider, that our main Differences are not ſo much about the fundamental points and ſubſtantials of Religion; (which are eſpecially Repentance to<g ref="char:EOLhyphen"/>wards God, and Faith in the Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt, which the Apoſtle makes the ſumme of all Religion, <hi>Act.</hi> 20.20, 21, with <hi>ver.</hi> 27.) but onely about the ſu<g ref="char:EOLhyphen"/>perſtructures &amp; circumſtantials, which do not conduce to the Being, but only to the Well-being of the Church, and therefore are not abſolutely neceſſary, though very profitable for the peace and welfare of the ſame.</p>
+            <p>Hence I hold it a work well worthy a Conſiſtorie, or College of Divines, to finde out ſome expedient for an hap<g ref="char:EOLhyphen"/>pie Union among our ſelves in theſe particulars, that might further the pra<g ref="char:EOLhyphen"/>ctice of true Piety in theſe declining, as well as dividing-times.</p>
+            <pb n="5" facs="tcp:119656:16"/>
+            <p>And firſt of all, if we could find out the Baſis, or bottom of our Diviſions; I think it would be ſome good degree to the healing of our Breaches. <hi>Eſt gra<g ref="char:EOLhyphen"/>dus ad ſanitatem noviſſe morbum, vel mor<g ref="char:EOLhyphen"/>bi cauſam,</hi> It's one degree to health to know our diſeaſe, and eſpecially the cauſe of it; and ſo in this we may happily ſee the ſaying verified;
+<q>
+                  <l>
+                     <hi>Dimidium facti, qui bene coepit habet.</hi>
+                  </l>
+               </q>
+               <q>
+                  <l>He that hath well begun,</l>
+                  <l>hath half his buſineſſe done.</l>
+               </q>
+            </p>
+            <p>Now amongſt many other cauſes and occaſions of our Diviſions and Diſſentions we clearly find, that thoſe very things, which were ordained for an holy Union and Communion, to knit Chriſtians together in an inviola<g ref="char:EOLhyphen"/>ble bond of Brother-hood, have proved by the ſubtilty of Satan, and policie or perverſneſſe of men, the greateſt Ap<g ref="char:EOLhyphen"/>ples of ſtriſe, and bones of contention, as
+<note n="*" place="margin">
+                  <hi>M. Calemie</hi> in his com<g ref="char:EOLhyphen"/>mendatory Epiſt. be<g ref="char:EOLhyphen"/>fore M. <hi>Hudſon</hi>'s learned book of the univerſal viſible Church.</note> one very juſtly complains; To wit, the two Sacraments of Baptiſme, &amp; the Lord's Supper, which are the very badges and cognizances of Chriſtians, whereby they are differenced and di<g ref="char:EOLhyphen"/>ſtir guiſhed from Jews, and Barbarians,
+<pb n="6" facs="tcp:119656:17"/>Turks, and all other Infidels in the world. Baptiſme is that ſacred Cere<g ref="char:EOLhyphen"/>mony, whereby we are admitted mem<g ref="char:EOLhyphen"/>bers into the Univerſal Viſible Church, as being all members of the ſame myſtical bodie, whereof Chriſt is the Head; bap<g ref="char:EOLhyphen"/>tized therefore into the Name of the undivided Trinitie, or Trinitie in Uni<g ref="char:EOLhyphen"/>tie. And who can be ignorant, what Differences and Diviſions have former<g ref="char:EOLhyphen"/>ly, and of late, ariſen about this holy Sacrament? which of it ſelf is not one<g ref="char:EOLhyphen"/>ly a great bleſſing of God to us, and our children, but ſhould be a firm bond of brotherly love and concord among all Chriſtians.</p>
+            <p>And as for the other Sacrament of the Lords ſupper, That hath been the occaſion of greater Diſcord and Diviſion. how many dear, and preci<g ref="char:EOLhyphen"/>ous ſervants of God have ſuffered bands, &amp; impriſonment, yea and have loſt, not only their liberty, but their lives, in fiery flames, and otherwayes, and onely be<g ref="char:EOLhyphen"/>cauſe they would not acknoledg the carnall preſence of Chriſt in the Sacra<g ref="char:EOLhyphen"/>ment of the Alter, as the Apoſtles call their Lords Supper.</p>
+            <pb n="7" facs="tcp:119656:17"/>
+            <p>And Diviſions about this Sacrament have not onely riſen between Papiſts and Proteſtants, and Lutherans, as they are called; but even amongſt Proteſtants themſelvs, as well as a<g ref="char:EOLhyphen"/>mongſt the other two; and that of late eſpecially: to the great prejudice of true piety, and the power of godlineſs, and that in the moſt eminent places of this Land: inſomuch as ſome have been ready, in this reſpect, to unchurch, and undo one another; ſo that a great part of that time which ſhould have been ſpent in God's ſervice,
+<note place="margin">Jud. Epiſt. verſe 20.</note> in morti<g ref="char:EOLhyphen"/>fying ſin, <hi>and building up one another in our moſt holy Faith:</hi> hath been moſtly waſted on fruitleſſe controverſies in this kind; to the great detriment and dam<g ref="char:EOLhyphen"/>mage of all ſides: the ſcandal of weak brethren, and the ſtrengthening and ſtiffening of the hearts and hands of the wicked in their evill ways; who otherwiſe might have been reclaimed; but by this means bleſſe themſelvs in their curſed confederacy, whereby they are like <hi>Simeon</hi> and <hi>Levi,</hi> brethren in evill, <hi>Gen.</hi> 49.</p>
+            <p>Wherefore, ſeeing the main diffe<g ref="char:EOLhyphen"/>rence
+<pb n="8" facs="tcp:119656:18"/>amongſt us hath been, and ſtill is concerning the Adminiſtration of the Sacrament of the Lord's Supper. For which, <hi>as for the diviſions of Reuben, there are great thoughts, and ſwellings of heart:</hi> After long and ſerious Delibe<g ref="char:EOLhyphen"/>ration, and confideration with my ſelf and others; and after much wait<g ref="char:EOLhyphen"/>ing and wreſtling with God in praier and ſupplication, I have reſolved to <hi>caſt my two mites</hi> into the Common Treaſury of the Church, if happily they may conduce, or confer any thing to a comfortable compoſure of this great controverſie, that ſo much concerns the Churches among us.</p>
+            <p>And herein I muſt confeſſe, I have been much encouraged, by the indea<g ref="char:EOLhyphen"/>vors of ſome faithfull fellow-laborers, as learned M. <hi>Jeanes,</hi> judicious M. <hi>Blake</hi> and others; who have not onely con<g ref="char:EOLhyphen"/>firmed me in many things, but added much to my clearer underſtanding of other particulars; ſo that ſtanding up<g ref="char:EOLhyphen"/>on their, and other mens ſhoulders, I may happily diſcover ſomthing, for the common good of theſe our diſtracted and diſtreſſed Churches, which, next
+<pb n="9" facs="tcp:119656:18"/>to Gods glory, is the onely aim of theſe indeavours.</p>
+            <p>Now concerning this Sacrament of the Lord's Supper, ſome adminiſter it not at all, leaſt for want of power to keep off the unworthy, they ſhould pro<g ref="char:EOLhyphen"/>phane this holy Ordinance: and give offence to others.</p>
+            <p>Some on the other ſide adminiſter to all that come, and are of years and un<g ref="char:EOLhyphen"/>derſtanding, without any Scruple, or Scruteny; not caring to catechiſe and inſtruct them for that holy Supper. O<g ref="char:EOLhyphen"/>thers there be that adminiſter,
+<note place="margin">Theſe are Anabap<g ref="char:EOLhyphen"/>tiſts.</note> but ex<g ref="char:EOLhyphen"/>clude all that were baptized one<g ref="char:EOLhyphen"/>ly in their infancy, as if they were without the pale of the Church. Some again allowing Infant-Baptiſme, ad<g ref="char:EOLhyphen"/>mit only thoſe that renounce Com<g ref="char:EOLhyphen"/>munion with our Churches and Mini<g ref="char:EOLhyphen"/>ſtery, as Antichriſtian, and theſe are rigid Separatiſts. Others, though they do not altogether condemn our Churches and Miniſtry, yet refuſe to adminiſter to any, ſave ſuch as enter into an explicit Church-Covenant, as they call it; and that are able to give ſuch evidences of grace, as to ſatisfie the whole Con<g ref="char:EOLhyphen"/>gregation,
+<pb n="10" facs="tcp:119656:19"/>or at leaſt the Elders; Theſe go under the name of Independents.</p>
+            <p>There is alſo another ſort that do adminiſter, who will allow none to receive this Sacrament; but ſuch as will give an account of their knowledg and faith to the Elders, and are not proved ſcandalous, who though they give a greater latitude than moſt of the former, and accept of perſons upon far eaſier terms; yet in moſt places, few will come under their Teſt or Tryall; ſo that very few are admitted in many Congregations. Hence ſome have de<g ref="char:EOLhyphen"/>viſed a new way, whereby they cull out thoſe few of ſeverall Congregations or Pariſhes, and ſo imbody them together, to join in Communion and breaking of bread, and many are as much, or more offended with this way, than the former, and ſo grow to diſtaſt and diſ<g ref="char:EOLhyphen"/>reliſh their Miniſters, that thus com<g ref="char:EOLhyphen"/>bine, becauſe ſo very many are left out of Communion, though I fear, that many of them are acceſſary to their own excluſion, who either out of pride, or ignorance, or prophaneſſe, refuſe to give an accompt of that faith and hope that is in them.</p>
+            <pb n="11" facs="tcp:119656:19"/>
+            <p>Wherefore let me tell ſuch (by the way), that though there be neither precept nor practiſe in the holy Scrip<g ref="char:EOLhyphen"/>tures for examination of others; as precedaneous to the receiving of the Sacrament; yet doubtleſſe it muſt needs be a pious and profitable courſe for moſt Chriſtians, to be catechiſed &amp; examined for their better inſtruction in the ground of Religion; &amp; conſequently for their more profitable partaking at the Lords Table: the neglect whereof is, and hath been, a main cauſe of much prophaneneſſe, irreligion, and atheiſm in moſt parts of the Nation. And there<g ref="char:EOLhyphen"/>fore without all queſtion they are guil<g ref="char:EOLhyphen"/>ty of a very great ſin, and have much to anſwer for, that ſhall either deſpiſe, or refuſe their Paſtours pains in this par<g ref="char:EOLhyphen"/>ticular, and deny to give him an ac<g ref="char:EOLhyphen"/>compt, if he think fit to demand it. The reaſon is, becauſe <hi>Heb.</hi> 13.17. they are bound to ſubmit to them, that watch for their ſoules, as they that muſt give an account, that they may do it with joy, and not with grief; for that is unprofitable for the people, as the Apoſtle there tels them.</p>
+            <pb n="12" facs="tcp:119656:20"/>
+            <p>Wherefore to com now to the main mat<g ref="char:EOLhyphen"/>ter intended, I cannot but commend the great care and pains, that ſome of my faithfull brethren have taken in ſeveral Counties in this Common-wealth; to reform thoſe committed to their charge, and yet notwithſtanding peo<g ref="char:EOLhyphen"/>ple for the moſt part wax worſe and worſe, for want of an uniform eſta<g ref="char:EOLhyphen"/>bliſh'd Government, back'd and coun<g ref="char:EOLhyphen"/>tenanced with publick Authority; for thoſe that have moſt need of reforma<g ref="char:EOLhyphen"/>tion, will hardly hearken to any plat<g ref="char:EOLhyphen"/>form that is of private or particular mens managing; that wants the afore<g ref="char:EOLhyphen"/>ſaid Authority, in theſe days eſpecially: Wherefore in the mean time, untill the Lord be pleaſed to ſtir up the hearts of thoſe in higheſt places over us, to ſettle and promote ſome godly frame of Church-government among us, give me leave in all humility to commend a few things unto conſideration, in this preſent exigent wherein we are.</p>
+            <div n="1" type="consideration">
+               <head>1 Conſid.</head>
+               <p>Firſt of all, let it be conſidered, whe<g ref="char:EOLhyphen"/>ther the caſe of many of our Churches be not ſuch, and ſo generally corrup<g ref="char:EOLhyphen"/>ted, &amp; diſtracted, that ſevere Diſcipline
+<pb n="13" facs="tcp:119656:20"/>upon all ſorts of ſcandalous ſinners will not be the way rather to ruine than reform them, I mean principally in regard of admiſtring the Lords Sup<g ref="char:EOLhyphen"/>pen, which is the great ſtumbling-ſtone and rock of offence.</p>
+               <p>Even judicious <hi>Calvin</hi> himſelf, who was ſtrict enough in admiſſion to the Lord's Table, and profeſſed that he would rather ſuffer his blood to be ſhed, than willingly partake in the pol<g ref="char:EOLhyphen"/>lution of Chriſt blood in the Sacra<g ref="char:EOLhyphen"/>ment; and thought, that in the delivery thereof; <hi>magnoperè delectus requiritur,</hi> great choice is required; yet addes, <hi>Qui tamen haberi nequit, niſi per Eccleſiae ju<g ref="char:EOLhyphen"/>riſdictionem,</hi> which choice notwith<g ref="char:EOLhyphen"/>ſtanding cannot be had, without the Churches Juriſdiction: Then after<g ref="char:EOLhyphen"/>ward, in the ſame Chapter, he cenſures <hi>immodicam veterum auſteritatem,</hi> the auſterity or rigor of the Antient Fa<g ref="char:EOLhyphen"/>thers;
+<note place="margin">
+                     <hi>Calv. Inſtit. lib.</hi> 4. <hi>c.</hi> 12.</note> but withall excuſes ſome of them whom he thought were neceſſitated to uſe ſuch ſeverity, and therefore brings in <hi>Cyprian</hi> to this purpoſe, ſaying, <hi>Cer<g ref="char:EOLhyphen"/>tè Cyprianus declarat quam non ſponte fuerit tam rigidus. Patientia inquit, &amp;
+<pb n="14" facs="tcp:119656:21"/>facilitas, &amp; humanitas noſtra venienti<g ref="char:EOLhyphen"/>bus praeſtò eſt, opto omnes in Eccleſiam redi<g ref="char:EOLhyphen"/>gi, opto commilitones noſtros intra Chriſti Caſtra &amp; dei Patris Domicilia concludi.
+<note place="margin">Mark this.</note> Remitto omnia, multa diſſimnlo, ſtudio &amp; voto colligendae fraternitatis, etiam quae in Deum commiſſa ſunt non pleno <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>udicio ex<g ref="char:EOLhyphen"/>amino,</hi> I hide many things with deſire of gathering together the fraternity, e<g ref="char:EOLhyphen"/>ven thoſe things that are committed a<g ref="char:EOLhyphen"/>gainſt God himſelf; I do not examine with ſtrict judgment. <hi>Delictis plus quam oportet remittendis pe nè ipſe delinquo,</hi> I almoſt offend, in pardoning offences more than is meet. Thus much out of <hi>Cyprian,</hi> that worthy man and holy <hi>Martyr.</hi>
+               </p>
+               <p>Then again, the ſame <hi>Calvin,</hi> in the ſame ſection, brings in <hi>Chryſoſtom, Chryſostomus</hi> (ſaith he) <hi>aliquanto du<g ref="char:EOLhyphen"/>rior, ſic tamen loquitur, ſi Deus tam be<g ref="char:EOLhyphen"/>nignus eſt, ut quid Sacerdos ejus auſterus vult videri? Chryſoſtom</hi> who was ſom<g ref="char:EOLhyphen"/>thing harſher than ordinary, ſpeaks not<g ref="char:EOLhyphen"/>withſtanding on this manner, if God himſelf be ſo favourable, why ſhould his ſervant ſeem ſo auſtere?</p>
+               <p>And after theſe he alſo brings in
+<pb n="15" facs="tcp:119656:21"/>learned <hi>Auguſtine, Scimus praeterea qua facilitate uſus eſt Auguſtinus erga Dona<g ref="char:EOLhyphen"/>tiſtas, ut non dubitaverit in Epiſcopatum recipere, qui aſchiſmate redierant, idque ſtatim poſt reſipiſcentiam.</hi> Then <hi>Calvin</hi> adde<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>verum quia contrariaratio invalu<g ref="char:EOLhyphen"/>erat, coacti ſunt proprio judicio cedere, ut eam ſequerentur,</hi> but becauſe a contrary courſe prevailed, they were forced to forſake their own judgment to follow that, whereby we may plainly perceiy, how wiſe men were compelled, in ſome caſes, for peace ſake, to yield to the current of the times,
+<note place="margin">See learned D. <hi>Field</hi> of the Church <hi>l.</hi> 1. <hi>c.</hi> 6.18. <hi>p.</hi> 36. ap<g ref="char:EOLhyphen"/>proving the ſame.</note> againſt their own judgment. And moreover in the ſame Chapter he cites <hi>Saint Auſtine</hi> bring<g ref="char:EOLhyphen"/>ing in an uſefull ſaying out of <hi>Cyprian, Miſerecorditer igitur corripiat homo, quod poteſt, quod autem non potest patienter ſe<g ref="char:EOLhyphen"/>rat, &amp; cum dilectione gemat, ac lugeat.</hi> Words worthy to be written with let<g ref="char:EOLhyphen"/>ters of gold! approved as you may ſee both by <hi>Auſtine</hi> and <hi>Calvin,</hi> two men moſt famous in their generations. <hi>Cy<g ref="char:EOLhyphen"/>prians</hi> words are in Engliſh thus. Therefore let man merciſully convert what he can, and what he cannot a<g ref="char:EOLhyphen"/>mend, let him patiently bear, and
+<pb n="16" facs="tcp:119656:22"/>with love lament and bewail with ſighs and groans. And furthermore <hi>Calvin</hi> declares, how the <hi>Donatiſts</hi> in S. <hi>Auſtines</hi> time, were like <hi>Anabaptiſts</hi> in his age (even as they are in outs) making a rent and ſchiſme in the Church, becauſe the <hi>Biſhops</hi> would not uſe ſuch ſeverity in Diſcipline, as they deſired; herereupon he relates another notable piece out of the ſame labori<g ref="char:EOLhyphen"/>ous <hi>Auſtine: Unumiſtud praecipue com<g ref="char:EOLhyphen"/>mendat (ſcilicet Auguſtinus) ſi conta<g ref="char:EOLhyphen"/>gio peccandi multitudinem invaſerit, Con<g ref="char:EOLhyphen"/>ſilia ſeparationis mania ſunt, ac pernici<g ref="char:EOLhyphen"/>oſa, ac ſacrilega, quia impia at que ſuperba fiunt: &amp; plus perturbant infirmos bonos, quam corrigant aninoſos malos.</hi> i. e. This one thing he eſpecially commends. If contagion of ſinning have invaded the multitude, Counſels of Separation are vain &amp; pernicious, &amp; ſacrilegiou<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, be<g ref="char:EOLhyphen"/>cauſe impious &amp; proud, and do more diſturbe the good ones that are weak,
+<note place="margin">See much more to this pur<g ref="char:EOLhyphen"/>poſe in <hi>Maſter Balls</hi> triall of the grounds tending to Separation. Chap. 10. pag. 2.13. and 204. who hath after the words <hi>(Malitiudinem-invaſerit) non eſt illa excommuni<g ref="char:EOLhyphen"/>canda, ſed Dei correctio expect ari debet:</hi> l. 3, contra parm c 12.</note> than reform the bad ones that are ſto<g ref="char:EOLhyphen"/>macky and ſtubborn.</p>
+               <pb n="17" facs="tcp:119656:22"/>
+               <p>Hence the aforeſaid <hi>Auſtine,</hi> writing to <hi>Aurelius</hi> Biſhop of <hi>Carthage,</hi> thus complains. <hi>Ebrietatem impunè graſſari in Affrica quae adeò graviter in Scripturis damnatur, ſuadetque ut coacto Epiſcopo<g ref="char:EOLhyphen"/>rum concilio remedium adhibeatur;</hi> yet ſubjoins withall, <hi>Non aſperè, quantum exiſtimo, non duriter, non modo imperioſo iſt a tolluntur, magis docendo quam juben<g ref="char:EOLhyphen"/>do; magis monendo quam minendo. Sic enim agendum eſt cum multitudine peccantium, Severitas aute<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> exercenda eſt in peccata paucorum.</hi> That is, that drunkenneſs did rage in Affrica without controll, which is ſo much condemned in the Scriptures, and he counſells him to uſe ſome remedy, by calling of a council of Biſhops; yet ſaith he, theſe things are not taken away, as I ſuppoſe, by harſh<g ref="char:EOLhyphen"/>neſſe, or by imperious means, rather by teaching than commanding, rather by admoniſhing than by threatning; For ſo muſt we deal with a multitude of offenders, and uſe ſeverity only a<g ref="char:EOLhyphen"/>gainſt the offences of a fow.</p>
+               <p>This is our very caſe in England, as it was in Affrica; the multitude for the moſt part is grievouſly infected with
+<pb n="18" facs="tcp:119656:23"/>drunkeneſſe, &amp; other damnable ſin<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, &amp; therefore ſeeing it would be pernicious &amp; impious to ſeparate; (a remedy worſe than the diſeaſe) to leave them in ſuch a deſperate and deplored condition,
+<note place="margin">See <hi>Doctor Field</hi> of the Church Book. 1 <hi>c.</hi> 17 <hi>p.</hi> 33.</note> ſo can it not be ſafe to exerciſe ſevere Diſ<g ref="char:EOLhyphen"/>cipline upon them. The reaſon is, be<g ref="char:EOLhyphen"/>cauſe that would not bring them to ſhame, being ſo many that are guilty; for they will harden one another. But ſome more milde and gentle courſe muſt be conſidered of, to win and work upon them by love, rather than ſeek to force them by fear, uſing all kind in<g ref="char:EOLhyphen"/>ſtructions, and loving admonitions, rather than rigid rebukes, and harſh threatings, which will but exaſperate, and make them more obſtinate, perti<g ref="char:EOLhyphen"/>nacious, and peremptory.</p>
+               <p>And thus you ſee the concurrent judgment of theſe three moſt worthy men, whoſe praiſe is glorious, both for piety and parts, which may be the more eaſily aſſented unto; if we well conſi<g ref="char:EOLhyphen"/>der the Lenity, long-ſuffering, and pa<g ref="char:EOLhyphen"/>tience of our Lord and Saviour in the like caſes; who when his Diſciples in their raſh zeal, would have command<g ref="char:EOLhyphen"/>ed
+<pb n="19" facs="tcp:119656:23"/>fire to come down from heaven,
+<note place="margin">Luk. 9.53.54.55.56.</note> to conſume the Samaritans, becauſe they would not receive him, he rebuked them, ſaying, Ye know not what man<g ref="char:EOLhyphen"/>ner of ſpirit ye are of; for ſaith he, The Son of man is not come to deſtroy mens lives, but to ſave them. Chriſt, you ſee, was not ſo harſh, and hard in cenſuring and judging, as the Diſciples were, but reproved for their raſhneſſe, though they pretended the example of Elias.</p>
+               <p>It is alſo generally confeſſed by all ſober men, that the Antient Fathers were too rigid in their Diſcipline; &amp; too ſevere in their cenſures; and yet their caſe did more require Auſterity, as may ſeem, than ours doth. Becauſe they lived among Heathens, who de<g ref="char:EOLhyphen"/>nied the Lord Jeſus Chriſt: and there<g ref="char:EOLhyphen"/>fore leaſt Chriſtianity it ſelf ſhould com into more contempt, and be ſcandalized by the bad converſation of profeſſed Chriſtians, the Officers and Gover<g ref="char:EOLhyphen"/>nours of the Church, were forced to uſe more rigour, for the avoiding of offen<g ref="char:EOLhyphen"/>ces, that ſo they might win the Gen<g ref="char:EOLhyphen"/>tiles to the love of the truth.</p>
+               <pb n="20" facs="tcp:119656:24"/>
+               <p>Wherefore we muſt conſider the na<g ref="char:EOLhyphen"/>ture of the times wherein we live, and like wiſe Phyſicians temper our medi<g ref="char:EOLhyphen"/>cines ſo, as that they may be moſt ta<g ref="char:EOLhyphen"/>king; bitter Pills will not down with ſome queaſie ſtomacks; we muſt in moſt things obſerve the temper of our diſtempered people; and ſometimes humour them, as we do our froward children, leſt they ſhould fret them<g ref="char:EOLhyphen"/>ſelvs too much.</p>
+               <p>Chriſtianity is now the common profeſſion, and in credit; therefore our chief indeavour muſt be to work men to a reall practiſe according to their profeſſion; and becauſe ſtrict Diſci<g ref="char:EOLhyphen"/>pline will not now be indured, as ſad experience tels us, eſpecially in this jun<g ref="char:EOLhyphen"/>cture of time, when every one may be of what Congregation he will, or of none at all, and of what Religion he will, that is called Chriſtian, ſo it be neither Popiſh, nor Prelaticall, or of no Religion at all, ſo that he keep it to himſelf, and diſturb not others.</p>
+            </div>
+            <div n="2" type="consideration">
+               <head>Conſid. 2.</head>
+               <p>Therefore in the next place I deſire, that it may be well conſidered, whether it were not neceſſary, to give ſome in<g ref="char:EOLhyphen"/>dulgence,
+<pb n="21" facs="tcp:119656:24"/>at leaſt for a time, becauſe of the hardneſſe of mens hearts, as <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> did in the matter of divorce, and that by Gods own permiſſion and ap<g ref="char:EOLhyphen"/>pointment, <hi>Deut.</hi> 24.1.</p>
+               <p>And this ſo much the rather, becauſe nothing is poſitively determined in Scripture concerning this particular, to wit; who thoſe are that are to be kept back from the Lords Supper; but it is left to the wiſdom and prudence of thoſe in authority, both in regard of this, and diverſe other parts of Diſci<g ref="char:EOLhyphen"/>pline, to vary according to circum<g ref="char:EOLhyphen"/>ſtances of time, place, and perſon; ſee<g ref="char:EOLhyphen"/>ing Chriſtianity is not now confirm<g ref="char:EOLhyphen"/>ed, (as formerly) to one Nation.
+<note place="margin">Act. 10.34.35.</note> and country only; but is free for all Nati<g ref="char:EOLhyphen"/>ons, <hi>Mat.</hi> 28.19.</p>
+               <p>Now diſſerent countries have differ<g ref="char:EOLhyphen"/>ent diſpoſitions, and cuſtoms; there<g ref="char:EOLhyphen"/>fore there could not be the ſame Diſci<g ref="char:EOLhyphen"/>pline in every particular for every people.</p>
+               <p>Withall let it be obſerved (which ſom do not impertinently urge), that the Apoſtle never blames the Miniſters, or any others, for admitting thoſe Corin<g ref="char:EOLhyphen"/>thians
+<pb n="22" facs="tcp:119656:25"/>to this Sacrament of the Sup<g ref="char:EOLhyphen"/>per, whom he ſo much condemns for their unworthy receiving, and upon whom God himſelf had inflicted ſuch viſible judgments, as weakneſſe, ſickneſſe, and death it ſelf; for that very ſin of un<g ref="char:EOLhyphen"/>worthy receiving: charging them only that were guilty, to examine them<g ref="char:EOLhyphen"/>ſelvs, and not the Miniſters, either there, or any other where.</p>
+            </div>
+            <div n="1" type="case">
+               <head>Caſe 1.</head>
+               <p>But here coms a caſe of conſcience to be reſolved: Should all, good and bad be admitted to this holy Sacra<g ref="char:EOLhyphen"/>ment of the Supper.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Solution. </seg>
+                  </label> I anſwer, No, if we can chuſe; but when we cannot do what we would,
+<note place="margin">
+                     <hi>Blake Cov. ſealed</hi> page. 274.275.</note> we muſt do what we can, as reverend M. <hi>Blake</hi> hath well determined, adding a little after; That the Churches edifi<g ref="char:EOLhyphen"/>cation is firſt to be conſidered; but the peace of the Church by no means neg<g ref="char:EOLhyphen"/>lected.</p>
+            </div>
+            <div n="2" type="case">
+               <head>Caſe. 2.</head>
+               <p>But ſhould not people be examined, (by the Miniſter at leaſt) before they be admitted to the holy Supper; or ſhould all that are baptized, and of years, come that will, without any more a do, as ſome do plead?</p>
+               <pb n="23" facs="tcp:119656:25"/>
+               <p>I anſwer, though there be no parti<g ref="char:EOLhyphen"/>cular precept for ſuch examination, as there is for ſelf-examination, 1 <hi>Cor.</hi> 11.28. yet I think that it is neceſſarily deducible, from that which is generally granted on all ſides.</p>
+               <p>All take for granted, that Children, Fools, and Mad-men are to be prohi<g ref="char:EOLhyphen"/>bited this Sacrament of the Supper, and yet there is no ſyllable for this direct<g ref="char:EOLhyphen"/>ly in the Word of God, but onely by natural reaſon, to be deduced thence, becauſe ſuch are altogether unable to examine themſelvs, and ſo to improve this Sacrament for their ſpiritual ad<g ref="char:EOLhyphen"/>vantage, &amp;c. by reaſon of their invin<g ref="char:EOLhyphen"/>cible ignorance. Now there muſt be therefore of neceſſity ſome appointed to judge, who are fools and mad-men, and who are paſt children, and of years; which cannot be known with<g ref="char:EOLhyphen"/>out examination; and none ſo fit to e<g ref="char:EOLhyphen"/>xamine ordinarily as Miniſters, who are, or ſhould be, men approved for knowledge, judgment, and holineſſe.</p>
+               <p>And hereupon I argue further thus, If invincible ignorance doth make children and fooles unfit to be admit<g ref="char:EOLhyphen"/>ted
+<pb n="24" facs="tcp:119656:26"/>to this holy Supper, much more will affected ignorance, which makes them not onely incapable but unwor<g ref="char:EOLhyphen"/>thy of admittance, becauſe by their negligence they are diſabled from diſ<g ref="char:EOLhyphen"/>cerning the Lord's body, and ſo muſt neede <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at and drink unworthily 1 <hi>Cor.</hi> 11.29.</p>
+               <p>Add hereunto, that the Prelaticall party, who have been moſt backward in this buſineſſe of examination, can<g ref="char:EOLhyphen"/>not deny but that confirmation was appointed by our firſt reformers, and <q rend="margQuotes">that none ſhould be confirmed by the Byſhop,
+<note place="margin">See the Rubrick a<g ref="char:EOLhyphen"/>bout con<g ref="char:EOLhyphen"/>firmation, and before the com<g ref="char:EOLhyphen"/>munion.</note> but ſuch as could ſay the Catechiſme; and that none ſhould be admitted to the Communion, untill ſuch time as they could ſay the Cate<g ref="char:EOLhyphen"/>chiſme, and be confirmed; and there<g ref="char:EOLhyphen"/>fore the Miniſter was appointed to Catechize ſuch as were to be confir<g ref="char:EOLhyphen"/>med; and all Fathers, Mothers, Ma<g ref="char:EOLhyphen"/>ſters and Dames, ſhould cauſe their Children, Servants and Apprentices (which had not learned their Cate<g ref="char:EOLhyphen"/>chiſme) to come to the Church, at the time appointed, and obediently to hear and be ordered by the Curate,
+<pb n="25" facs="tcp:119656:26"/>until ſuch time as they have learned all that was appointed for them to learn.</q>
+               </p>
+               <p>Now this being in many places neg<g ref="char:EOLhyphen"/>lected on all ſides, Miniſters not Cate<g ref="char:EOLhyphen"/>chizing, or very few of them, and like<g ref="char:EOLhyphen"/>wiſe Parents and Maſters, &amp;c. being backward to bring their Children and Servants to learn the Catechiſme; and Biſhops as careleſſe as any t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſee it done, and ſo in a great meaſure the cauſe of the neglect of the other, whom they had power by their Courts to compell, had they not wanted care and conſcience; hence moſt ſorts of people did ſtill remain very ignorant of the grounds of Religion, being altogether uncatechiſed. Wherefore let any man judge, what need there is now of more then ordinary examination, or catechi<g ref="char:EOLhyphen"/>zing almoſt of all ſorts, in regard of knowledge; ſo that a great many that mutter, and make much ado againſt e<g ref="char:EOLhyphen"/>xamination, as if it were ſo tyrannical, and much worſe than Epiſcopal Go<g ref="char:EOLhyphen"/>vernment, do ſay they know not what. For though Epiſcopal Government, in regard of the execution of that office,
+<pb n="26" facs="tcp:119656:27"/>fell ſhort in this particular; yet in re<g ref="char:EOLhyphen"/>gard of the right conſtitution thereof; the Biſhops ſhould have cauſed as much to have been done, as is of late requi<g ref="char:EOLhyphen"/>red by moderate Presbyterians; and it was their ſin and ſhame, that they did it not. See the Rubrick about confirmation, and before the Commu<g ref="char:EOLhyphen"/>nion.</p>
+            </div>
+            <div n="3" type="case">
+               <head>Caſe: 3.</head>
+               <p>But ſhall the ſcandalous be admitted to this holy Communion? what ſhall be done with them?</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Sol. </seg>1</label> I think they ſhould indeed be excom<g ref="char:EOLhyphen"/>municated from all publick Communi<g ref="char:EOLhyphen"/>on in holy Ordinances, thoſe I mean, that are proved ſcandalous, and wil not be admoniſhed, nor ſubmit and ac<g ref="char:EOLhyphen"/>knowledge their crimes and hainous offences.</p>
+               <p>Secondly, ſeeing that in moſt con<g ref="char:EOLhyphen"/>gregations there wants ſufficient pow<g ref="char:EOLhyphen"/>er for authoritative excommunicati<g ref="char:EOLhyphen"/>on; I think it very difficult, what to determine in this buſineſs; and that be<g ref="char:EOLhyphen"/>cauſe it is hard to judge what is ſcand<g ref="char:EOLhyphen"/>al, and alſo who are ſcandalous, learned men being much divided in this par<g ref="char:EOLhyphen"/>ticular: Therefore I conceive it too
+<pb n="27" facs="tcp:119656:27"/>great a burden to be put upon the Mi<g ref="char:EOLhyphen"/>niſter alone, unleſſe he were more in<g ref="char:EOLhyphen"/>fallible than moſt can poſſibly be ima<g ref="char:EOLhyphen"/>gined; or unleſſe there were publick Lawes to regulate and determine, what ſhall bee accounted a ſcandall, and who, and when ſcanda<g ref="char:EOLhyphen"/>lous.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Sol. </seg>3</label> Thirdly I add, where no Govern<g ref="char:EOLhyphen"/>ment is ſet up, as in moſt places there neither is, nor well can be as yet (<hi>rebus ſic ſtantibus</hi>) for want of fit Officers. If there be any ſo groſsly ſcandalous, that there need no examination, or o<g ref="char:EOLhyphen"/>ther proof; as in caſe of Baſtardy, Common-drunkenneſſe, or the like; if any ſuch ſhould offer to come to the holy Communion, he is to be admoni<g ref="char:EOLhyphen"/>ſhed; &amp; if hee do openly confeſſe his ſin, and profeſſe his hearty ſorrow for the ſame, &amp; promiſe by the grace of God to indeavor amendment, I know no reaſon in all the Word of God, why he ſhould be put by. But if he will not be admo<g ref="char:EOLhyphen"/>niſhed, but ſeek to juſtifie himſelf, or ex<g ref="char:EOLhyphen"/>cuſe the matter, and remain obſtinate, hee deſerves to bee excommunicated, and caſt out of the Congregation.
+<pb n="28" facs="tcp:119656:28"/>But for want of Diſcipline whereby this might be legally done, I ſuppoſe the Miniſter (if there be any that will join with him, to teſtifie the ſcandal and obſtinacie) may in ſuch a caſe paſſe h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m by,
+<note place="margin">1 Cor. 5.11 2 Theſ. 3.14. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Vid. Paſtor. Evangel. l.</hi> 3. <hi>c.</hi> 5. <hi>p.</hi> 188. 189. <hi>ad</hi> 195. Ezek. 3.4. and 9.</note> charging him not to preſume to partake at his own peril; warning alſo the reſt of the Congregation to withdraw from familiar converſing with ſuch an one, more then natural or neceſſary civil bonds do tie them, to the intent that he may be aſhamed, as if he were juridically excommunicate.</p>
+               <p>But now if none will join with the Miniſter in this caſe, but leav the bu<g ref="char:EOLhyphen"/>ſineſſe wholly upon him; I do not think it can be ſafe for him alone to put him away, onely he may charge him to abſtain, till he have given ſome fatisfaction to the Congregation, and not to offer the conſecrated elements unto him, and if he will take them of himſelf, he hath had ſufficient warning, his blood ſhall be upon his own head, and ſhall not be required at the Mini<g ref="char:EOLhyphen"/>ſter's hands.</p>
+               <p>And as for others that are onely ſuſpected, the Miniſter may not meddle
+<pb n="29" facs="tcp:119656:28"/>with them; no, nor a Presbytery; be<g ref="char:EOLhyphen"/>cauſe, <hi>De occultis non judicat Eccleſia,</hi> onely they may admoniſh ſuch in pri<g ref="char:EOLhyphen"/>vate, to carry themſelves ſo, as to take off all ſuſpition.</p>
+               <p>Now though this may ſeem to ſome very ſtrange, as favouring of looſneſſe and remiſſneſſe, yet let me tell you, that it is no more in effect, than what ſome of the chief and choice Independents allow, upon the like occaſion. For M<hi rend="sup">r</hi> 
+                  <hi>Thomas Hooker,</hi> a man very eminent while he was in <hi>Old,</hi>
+                  <note place="margin">
+                     <hi>
+                        <g ref="char:V">Ʋ</g>id.</hi> M. <hi>Cawdryes</hi> Review of <hi>M. Hookers Survey cap.</hi> 2. <hi>pag.</hi> 94.</note> and afterwards in <hi>New-England,</hi> yet in his Survey of Diſ<g ref="char:EOLhyphen"/>cipline yields as much. <hi>In declining times</hi> (ſaith he) <hi>a Church being cor<g ref="char:EOLhyphen"/>rupted, when diſeaſes grow deadly, there is allowed, and a toleration of neceſſity muſt be ſo far granted,
+<note place="margin">
+                        <hi>M. Blake</hi> on the <hi>Co<g ref="char:EOLhyphen"/>venant Ch.</hi> 47. <hi>page</hi> 437. See alſo M<hi rend="sup">r</hi> 
+                        <hi>Gilla<g ref="char:EOLhyphen"/>ſpy</hi>'s his <hi>Aarons Rod</hi> book 3. ch. 15. p. 541.</note> until</hi> juridicè <hi>the evil be examined, the parties convinced, cenſures applied for reformation.</hi> See M. <hi>Cawdrey</hi>'s Review, p. 94. M. <hi>Blake</hi> alſo quotes another paſſage to this pur<g ref="char:EOLhyphen"/>poſe, out of the ſame M. <hi>Hooker. We ſee (ſaith he) how much reverend</hi> M. <hi>Hooker, ſpeaking the opinion of his party, gives to the Churches conivence or indulgence. If the Church (ſaith he) either through
+<pb n="30" facs="tcp:119656:29"/>connivence, negligence, or indulgence ſha tolerate ſuch evills, and evill perſons in the ſtate of Church-memberſhip, they cannot then deny them the priviledge of members;</hi> thus far he. Now this is one ſpeciall priviledge of Church-members, that are of years, to receive this Sacrament, or to be admitted to this holy Table, therefore he yields full as much, if not more than I have yielded.</p>
+            </div>
+            <div n="4" type="case">
+               <head>Caſe. 4.</head>
+               <p>But whether may Miniſters lawfully adminiſter this Sacrament to thoſe, in whom they can ſee no ſignes of ſound and ſaving grace? I anſwer, yes un<g ref="char:EOLhyphen"/>doub<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>edly, and that for theſe follow<g ref="char:EOLhyphen"/>ing reaſons.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Sol. </seg>
+                  </label> Firſt, becauſe the Apoſtles in the pureſt primitives times, never required any more to admiſſion than outward profeſſion, refuſing none that were willing to give their names unto Chriſt; never once queſtioning the ſin<g ref="char:EOLhyphen"/>cerity of their affections, for ought we read, witneſs thoſe three thouſand ſoules admitted preſently both to Bap<g ref="char:EOLhyphen"/>tiſme, and the Lord's Supper, upon their willing aſſent. <hi>Act.</hi> 2.41. <hi>&amp;c.</hi> and that breaking of bread. <hi>ver.</hi> 42. is
+<pb n="31" facs="tcp:119656:29"/>ment of Sacramentall breaking, may appear more plainly, if we well obſerve, what learned Maſter <hi>Mede</hi> ſaith, con<g ref="char:EOLhyphen"/>cerning the words. They were ſaith he, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which the vulgar Latine turns, <hi>Erant autem perſeveran<g ref="char:EOLhyphen"/>tes in doctrina Apoſtolorum, &amp; commu<g ref="char:EOLhyphen"/>nicatione fractionis, panis &amp; orationibus;</hi> but the Syriack, <hi>Perſeverantes erant in doctrina Apoſtolorum, &amp; Communicabant in precatione, &amp; fractione Euchariſtiae, hoc eſt, aſſidui erant in audiendis Apoſtolis, &amp; Sacrificio Chriſtiano celebrando,</hi> and withal he adds, who knows no that the <hi>Synaxis,</hi> of the ancient Chriſtians con<g ref="char:EOLhyphen"/>ſiſted of theſe three parts, of hearing the Word of God, of prayers, and commemoration of Chriſt in the Eu<g ref="char:EOLhyphen"/>chriſt? And therefore he ſaith, our tranſlation is not here ſo right, which refers <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> to <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> and tranſ<g ref="char:EOLhyphen"/>lates it the fellowſhip of the Apoſtles, whereas it is to be referred to <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Vide Mede vol.</hi> 1. page, 493. 494.</p>
+               <p>And to proceed, we do not read of
+<pb n="32" facs="tcp:119656:30"/>any admitted to baptiſme, but were alſo admitted to the Lord's Supper. Hence <hi>Act.</hi> 20.7. It is ſaid, that up<g ref="char:EOLhyphen"/>on the firſt day of the week the Diſci<g ref="char:EOLhyphen"/>ples came together to break bread, and Paul preached unto them; Mark, he ſpeaks of Diſciples in generall, with<g ref="char:EOLhyphen"/>out any exception, that they came to<g ref="char:EOLhyphen"/>gether of purpoſe, to break bread; as a ſpeciall Sabbath-duty, as wel as hear<g ref="char:EOLhyphen"/>ing the Word &amp;c.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſon </seg>2</label> My ſecond reaſon is, becauſe all cir<g ref="char:EOLhyphen"/>cumciſed were ſtrictly in joined to eat the Paſſeover, <hi>Exod.</hi> 12.44. and 47. Every mans ſervant that is bought with money, when thou haſt circumciſed him ſhall eat thereof; all the Congregation of Iſrael ſhall keep it, amongſt whom, without queſtion there were many, if not moſt of them, uncircumciſed in heart, and unregenerate, uncircumci<g ref="char:EOLhyphen"/>ſion in heart, orunregeneracy; was ne<g ref="char:EOLhyphen"/>ver made a bar to exclude any from the outward Ordinance (though it may from the bleſſing of it) becauſe no man can judge the heart.</p>
+               <p>As for theſe <hi>Numb.</hi> 9.6, 7. <hi>&amp;c.</hi> that were forbidden to keep the Paſſeover, by reaſon of uncleanneſs, being defiled by
+<pb n="33" facs="tcp:119656:30"/>a dead body of a man, it was ſuch an uncleanneſs, as might befall the holyeſt man among them; beſides it was ſuch as kept them out of the Congregation, and ſo from other Ordinances as well as that. <hi>Numb.</hi> 5.2. <hi>Command the Children of Iſrael, that they put out of the Camp every Leper, and every one that hath an Iſſue, and whoſoever is defiled by the dead, both male and female, ſhall ye put out, without the Camp: That they defile not the Camp.</hi> ver. 3. Now out of the Camp, then out of the Congregation, but marke what followed. <hi>Numb.</hi> 9.13. <hi>The man that is clean,</hi> (to wit, legally) <hi>And is not in a journey, and forbeareth to keep the Paſſeover, even the ſame ſoul ſhall be cut off from his people, becauſe he brought not the Offering of the Lord, in his ap<g ref="char:EOLhyphen"/>pointed ſeaſon, that man ſhall bear his ſin:</hi> You ſee therefore there was great ſin, in refuſing to keep the Paſſeover, if le<g ref="char:EOLhyphen"/>gally cleane, though unregenerate; for that uncleannes there, cannot be ex<g ref="char:EOLhyphen"/>tended to inward uncleanneſſe, which man cannot poſſibly know.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>3</label> Thirdly, becauſe the uſe of this Or<g ref="char:EOLhyphen"/>dinance doth much conduce to a
+<pb n="34" facs="tcp:119656:31"/>through converſion. For here thou muſt take notice of a two-fold converſi<g ref="char:EOLunhyphen"/>on, one is unto the Faith, another is to the Truth of the Goſpell; the for<g ref="char:EOLhyphen"/>mer is onely outward, conſiſting in profeſſion and outward practiſe onely; the other is inward, when the heart receiveth the love of the truth, and of this letter wee here ſpeak, which is holpen by this holy Sacrament, reve<g ref="char:EOLhyphen"/>rently and devoutly adminiſtred, for we ſuppoſe all that can lay any claym to the Sacrament have the former.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argument. </seg>1</label> Now to prove that the uſe of this Ordinance doth much conduce to this converſion,<note place="margin">to prove that the uſe of this Sacrament conduceth to conver<g ref="char:EOLhyphen"/>ſion that is reall.</note> my firſt Argument is this: Becauſe it is a means to convince men of ſinfullneſſe, which is the firſt work of the ſpirit in true converſion, <hi>Joh</hi> 16.8 Now in this Sacrament Chriſt, is as it were, Crucifyed before our eyes, and that for the remiſſion of ſinnes, which could not otherwiſe be expiated, but by the ſhedding of his blood; likewiſe it ſerves to convince us of the hay<g ref="char:EOLhyphen"/>nouſneſſe, and hatefullneſſe of our ſin, which could not be done away by any other meanes, but by the Blood of
+<pb n="35" facs="tcp:119656:31"/>the Son of God, as alſo to convince us of monſtrous ingratitud, if we ſhould preſume to come to the Sacra<g ref="char:EOLhyphen"/>ment of Chriſt body and blood, and yet to follow fleſh and blood, and not labour to be cleanſed by the blood of that Lamb that takes away the ſinnes of the World. Beſides the very break<g ref="char:EOLhyphen"/>ing of the bread, underſtandingly looked upon, is a forcible argument to break our hearts,
+<note place="margin">
+                     <hi>London Min. vindic</hi> of the Preſ<g ref="char:EOLhyphen"/>byteriall Govern<g ref="char:EOLhyphen"/>ment, <hi>page,</hi> 104.</note> (as the <hi>London</hi> Miniſters have excellently and feeling<g ref="char:EOLhyphen"/>ly obſerved) <hi>Was Jeſus Chriſt rent and torn for you, and ſhall it not break your hearts, that you ſhould ſin againſt him? Was he crucified for you, ſaith they, and will you crucifie him by your ſinnes? And beſides,</hi> ſay they, <hi>the breaking of the bread is not onely ordained to be a motive unto brokennes of heart for ſin, but alſo in the right uſe to effect that which it moves unto.</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argu. </seg>2</label> Secondly the Sacrament is a compound Ordinance, conſiſting of the word, praier, and elements of bread and wine, and therefore muſt needs be more forcible then the ſingle word, or both word and prayer without it, when <hi>ver<g ref="char:EOLhyphen"/>bum viſible</hi> is joyned both with prayer,
+<pb n="36" facs="tcp:119656:32"/>and <hi>verbum audibile,</hi> a three-fold cord is not ſoon broken.</p>
+               <p>And the aforeſaid <hi>London</hi> Miniſters call it,
+<note place="margin">
+                     <hi>ubi Supra page</hi> 110.</note> a <hi>Viſible Sermon;</hi> that <hi>as Chriſt in the miniſtry of the Word preacheth to the ear, and by the ear conveyeth him<g ref="char:EOLhyphen"/>ſelf into the heart: ſo in the Sacra<g ref="char:EOLhyphen"/>ment he preacheth to the eie, and by the eie conveieth himſelf into the heart.</hi> There<g ref="char:EOLhyphen"/>fore as the Apoſtle <hi>Peter</hi> tells us,
+<note place="margin">1 Pet. 3.1, 2</note> That the Wives good converſation may win the Husband, whom the Word will not win, to wit alone, becauſe deeds are often more forcible then words: So I may ſay, that the Sacrament join<g ref="char:EOLhyphen"/>ed with the Word,
+<note place="margin">validior eſt vox operis quam oris.</note> may work that, which the Word alone will not ef<g ref="char:EOLhyphen"/>fect.</p>
+               <p>For though the word preached be of greateſt weight for Converſion,
+<note place="margin">The Sacra<g ref="char:EOLhyphen"/>ment is a ſign and a ſeal; as a ſign it vi<g ref="char:EOLhyphen"/>ſibly tea<g ref="char:EOLhyphen"/>cheth, &amp; as a ſeal it confirm<g ref="char:EOLhyphen"/>eth, both which help to beget faith w<hi rend="sup">ch</hi> is ſaving.</note> yet the Sacrament being added as a ſeal to the Word, to confirme the ſame, muſt needs help to work ſound and ſaving faith, and ſo turre the ſcale. For as the Apoſtle ſaith, <hi>Heb.</hi> 6.17, 18. God willing more abundantly to ſhew unto the heirs of promiſe the immutabi<g ref="char:EOLhyphen"/>lity of his counſell confirmed it by an
+<pb n="37" facs="tcp:119656:32"/>oath, that by two immutable things in which it was impoſſible for God to lie, we might have a ſtrong confirma<g ref="char:EOLhyphen"/>tion: So I may well ſay, that theſe two immutable things, God's Word and Seale, muſt needs make ſtronger impreſſion upon our hearts, to work faith, and conſequently converſion.</p>
+               <q>Et quae non proſunt ſingula, juncta juvant.</q>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argu. </seg>3</label> In the third place, doth not experi<g ref="char:EOLhyphen"/>ance tell us, that, ſince the adminiſtra<g ref="char:EOLhyphen"/>tion of this Sacrament hath been ſo much neglected, fewer by far have been converted, than in former times; be<g ref="char:EOLhyphen"/>cauſe this holy Sacrament kept men more in awe, partly by reaſon of the ſolemneſſe of this Sacred Ordinance, for which men have been preſſed to more ſerious preparation, <hi>&amp;c.</hi> partly by reaſon of the Apoſtles preſſing to examination, by expreſſing the hai<g ref="char:EOLhyphen"/>nouſneſſe of the ſin, and greatneſſe of the danger of unworthy receiving, that it makes them guilty of the body, and blood of Chriſt, and to eat and drink
+<pb n="38" facs="tcp:119656:33"/>their owne damnation. 1 <hi>Cor.</hi> 11.27, 28, 29.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argu. </seg>4</label> Laſtly another thing which I con<g ref="char:EOLhyphen"/>ceive of no ſmall conſequence, is this; In adminiſtring and partaking of this Ordinance there is a more particular application of the Elements by every one that receives, whereas the word preached, being delivered to all at once, is applyed but by a few, men being loath, if they can chooſe, to take that to themſelves, which goes againſt the hair, as moſt duties do, eſpecially Repentance, or true converſion. But now when the Sacrament of the Sup<g ref="char:EOLhyphen"/>per is adminiſtred, they muſt needs act that do receive, becauſe they muſt eat and drink, whereby a nearer ingage<g ref="char:EOLhyphen"/>ment comes upon them, which makes them look better about them.</p>
+               <p>Hence many never begin to think ſeriouſly of Religion, and a religious, courſe, untill they are to come to the Sacrament, and then they begin to be<g ref="char:EOLhyphen"/>think themſelues, and to turne over a new leafe, and ſo fall cloſe to ſavour and reliſh Religion, which before they
+<pb n="39" facs="tcp:119656:33"/>regarded not,
+<note place="margin">Cov. ſe a<g ref="char:EOLhyphen"/>led, <hi>p.</hi> 216. &amp;c.</note> or at moſt very ſlightly conſidered. <hi>Expertus loquor,</hi> See more concerning this matter in M. <hi>Blakes Covenant ſealed.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>1</label> But here it will be Objected, that ſhould we admit thoſe that are unrege<g ref="char:EOLhyphen"/>nerate, being dead in treſpaſſes and ſinns, it would do them no good at all; but a great deal of hurt, yea prove very poiſon to them, becauſe they will eat and drink damnation to themſelves; for they cannot but eat and drink un<g ref="char:EOLhyphen"/>worthily, taking God's name in vain. I anſwer,
+<label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> by the ſame reaſon you muſt keep them from every Ordinance, be<g ref="char:EOLhyphen"/>becauſe, while unregenerate, they take Gods name in vain, and hurt them<g ref="char:EOLhyphen"/>ſelves as well as in this. Beſides, none eat and drink damnation, but thoſe that are in a damnable eſtate al<g ref="char:EOLhyphen"/>ready; <hi>For he that believs not, is con<g ref="char:EOLhyphen"/>demned already,</hi> Joh. 3.18. As for poi<g ref="char:EOLhyphen"/>ſoning them by this, how can a dead man be poiſoned? And beſides,
+<note place="margin">
+                     <hi>Vid.</hi> Blake Cov. ſea<g ref="char:EOLhyphen"/>led, <hi>ch.</hi> 17. <hi>ſect.</hi> 11. <hi>pag.</hi> 190.</note> I hold it a dangerous errour to think, that this Sacrament will prove poiſon to all that partake of it, being unregenerate; for had it been ſo, ſurely the Lord
+<pb n="40" facs="tcp:119656:34"/>would not have appointed the ſame meat and drink to have been both Sa<g ref="char:EOLhyphen"/>cramental and neceſſary food, without which the Iſraelites had been ſtarved in the wilderneſſe; and with which moſt of them, being unregenerate, muſt have been poiſoned, if that poſition were true, for they all ate the ſame ſpi<g ref="char:EOLhyphen"/>ritual meat, and all drank the ſame ſpiritual drink, 1 <hi>Cor.</hi> 10.3, 4. whence I argue thus; Seeing the Lord appoint<g ref="char:EOLhyphen"/>ed the ordinary food of the Iſraelites to be ſacramental, and the very ſame ſpiritual meat and drink with ours; and ſeeing they were all bound to eat, or elſe they had been ſelf-murtherers; Therefore there can be no ſuch danger of ſoul-murthering to all unregenerate, that eat in obedience to God's Com<g ref="char:EOLhyphen"/>mandement, which muſt of neceſſity follow, if the Sacrament ſhould be poi<g ref="char:EOLhyphen"/>ſon to all ſuch as were unconver<g ref="char:EOLhyphen"/>ted.</p>
+               <p>I deny not but there was ſomething extraordinary in that ſacramental meat and drink, in regard that the mixt multitude did both eat and drink of the ſame; yet ſtill the argument
+<pb n="41" facs="tcp:119656:34"/>holds good, in regard of the ſacramen<g ref="char:EOLhyphen"/>tality of it, (as I may ſay) and that we may rather conclude thence, that thoſe that are no members of the Church may eat at the Sacrament, than exclude thoſe from it that are viſible members, though unregenerate. Doubtleſſe the unregenerate ſin no otherwiſe in this, than they do in other commanded du<g ref="char:EOLhyphen"/>ties, which they cannot poſſibly perform aright in that condition, and which notwithſtanding they cannot neglect without greater ſin;
+<note place="margin">Bowles his Paſt. E<g ref="char:EOLhyphen"/>vang. <hi>lib.</hi> 3. <hi>pag.</hi> 193.</note> 
+                  <hi>Minorem contra<g ref="char:EOLhyphen"/>hit reatum</hi> (ſaith reverend <hi>Bowles) qui in officio, quod praecipitur, deficit in modo praeſtandi, quàm qui prorſus negligit. Pec<g ref="char:EOLhyphen"/>cat ille ex accidenti,</hi> ſcil. <hi>ex defectu fu<g ref="char:EOLhyphen"/>perveniente; hic verò in ſubſtantiam prae<g ref="char:EOLhyphen"/>cepti, que jubemur Domini mortem uſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> dum advenerit annunciare. Peccat ille in unum duntaxat praeceptum; hic in duo, quae prudens ſcienſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> omittit.</hi> And after this manner we were wont to comfort wounded conſciences, who were afraid to performe holy duties, becauſe they found ſuch failings and faithleſſe di<g ref="char:EOLhyphen"/>ſtractions in the performance of them, that they thought they ſinned more in
+<pb n="42" facs="tcp:119656:35"/>doing them, than in leaving them un<g ref="char:EOLhyphen"/>done; For this we told them, that there was leſſe ſin in the willing per<g ref="char:EOLhyphen"/>formance, though with much weak<g ref="char:EOLhyphen"/>neſſe, than in the wilful neglect of them.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> But here ſome think to evade, by diſtinguiſhing between duties natural<g ref="char:EOLhyphen"/>ly moral, and thoſe of meer poſitive inſtitution. Moral duties, as praier, thankſgiving, &amp;c. are confeſt to belong in general unto all; but it is not ſo in duties of poſitive inſtitution; they are given with limit to ſome, and are not of univerſal obligation.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> To this Mr. <hi>Blake</hi> hath ſufficiently anſwered;
+<note place="margin">
+                     <hi>M. Blak</hi> Cov. ſealed c 7. ſect. 11. <hi>p.</hi> 195.</note> 1. <hi>By way of Conceſſion: Poſitive precepts bind not at all, becauſe they are not given to all; the Gentil nati<g ref="char:EOLhyphen"/>ons were not tied to the Law of Ceremo<g ref="char:EOLhyphen"/>nies given to the Jews, and meer Hea<g ref="char:EOLhyphen"/>thens are not now tied to our Sacraments.</hi> 2. <hi>For a poſitive anſwer he ſaith; Poſitive precepts were never given in charge with any ſuch diſtinction, as to bind the regene<g ref="char:EOLhyphen"/>rate, and to exclude men in unregenerati<g ref="char:EOLhyphen"/>on, Men under ſin, and in nature, are bound to the affirmative part of the ſecond
+<pb n="43" facs="tcp:119656:35"/>Commandement, to obſerve every way of worſhip that ſhall be inſtituted by God, all of which are onely of poſitive right. All Iſ<g ref="char:EOLhyphen"/>rael were tied to ſacrifice, as well as to hear, and pray; and all Chriſtians are now under an obligation to the Law of the Sacraments, as they are to other du<g ref="char:EOLhyphen"/>ties.</hi> And a little after he adds; <hi>There are texts indeed produced, ſeemingly ta<g ref="char:EOLhyphen"/>king off men under ſin, from the perfor<g ref="char:EOLhyphen"/>mance of poſitive duties,</hi> as Mat. 5.23.24. <hi>and as much may be ſaid concerning thoſe that are moral,</hi> Ezek. 14.2, 3. &amp; 20.23. thus far Mr. <hi>Blake.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> If here it ſhould be objected concer<g ref="char:EOLhyphen"/>ning the former Scripture, 1 <hi>Cor.</hi> 10.1, 2, 3. &amp;c. that preſently after, God was ſaid not to be well pleaſed with many of them that are that ſpiritual meat, &amp;c.
+<label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> but overthrew them in the wilderneſſe, <hi>ver.</hi> 5. I anſwer; 'tis true, and this makes much againſt them, that reſt in the deed done, and think Sacra<g ref="char:EOLhyphen"/>ments will ſave by the bare outward act, <hi>ſine bono motu utentis;</hi> but this makes nothing againſt what I have ſaid; for the Apoſtle ſaith not, that God was diſpleaſed with them for eat<g ref="char:EOLhyphen"/>ing
+<pb n="45" facs="tcp:119656:36"/>that Spirituall meat, &amp;c. but for luſting after evill thinges, as appeares <hi>ver.</hi> 6, 7. <hi>&amp;c.</hi> In all which, and that which followes in the next <hi>Chap.</hi> where he ſpeakes of the Lord's Supper, he ſaith not one word, againſt their coming to the Sacrament, which was their duty, but onely againſt their misbehaviour at it, which was very groſſe; whereby it may appear, that many of them were unregenerate, for ſome of them were drunke, either at or preſently after that Ordinance, which is little better, they came to it, not as a ſacred, but as a civil, or rather uncivil feaſt; hence thoſe judgments ſeized upon them, to wit weakneſſe, ſickneſſe, &amp; death <hi>ver.</hi> 30. &amp; yet not a word of excluding the parties, but only condemning their miſcarriages.</p>
+            </div>
+            <div n="5" type="case">
+               <head>Caſe. 5.</head>
+               <p>But is not adminiſtring the Sacra<g ref="char:EOLhyphen"/>ment to ſuch as be unregenerate,
+<note place="margin">
+                     <hi>Mat.</hi> 7.6.</note> a giving holy things to Dogs, &amp;c. Con<g ref="char:EOLhyphen"/>trary to Chriſt's flat command?
+<label type="milestone">
+                     <seg type="milestoneunit">Sol. </seg>
+                  </label> No<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> at all in our Saviours ſence; This place I know is much urged, and that by many learned and godly men, and I know it is ſufficiently anſwer'd, by many no leſſe learned and godly, eſpe<g ref="char:EOLhyphen"/>cially
+<pb n="44" facs="tcp:119656:36"/>by M. <hi>Jeanes,</hi> and alſo by M. <hi>Blake:</hi> yet give me leave to fay ſome<g ref="char:EOLhyphen"/>thing in this particular, becauſe it works much with a great many. I confeſſe I cannot chuſe but wonder to ſee this place ſo wreſted by wiſe and worthy men, as if it afforded <hi>Argumentum palmarium,</hi> not conſider<g ref="char:EOLhyphen"/>ing either the abſurdity, or inconſe<g ref="char:EOLhyphen"/>quence of their arguing.</p>
+               <p>Firſt, the abſurdity is evident, be<g ref="char:EOLhyphen"/>cauſe taking it for a general propoſiti<g ref="char:EOLhyphen"/>on, as they do, and ſo including the holy things of the Sacrament among the reſt, it makes full as much, if not more, a<g ref="char:EOLhyphen"/>gainſt preaching to ſuch as they call Doggs, and Swine, and whom they would exclude, <hi>eo nomine,</hi> from the Sa<g ref="char:EOLhyphen"/>crament, when notwithſtanding they preach the holy things of the Goſpel to the ſelf-ſame Doggs, yea and caſt thoſe pearls before thoſe ſame Swine; eſpe<g ref="char:EOLhyphen"/>cially when they contend for excom<g ref="char:EOLhyphen"/>municate perſons, not to be excluded the Congregation. Therefore the Pro<g ref="char:EOLhyphen"/>poſition cannot bee general, in their ſenſe of Doggs, but ſo as to make flat againſt themſelves. The truth is, prea<g ref="char:EOLhyphen"/>ching,
+<pb n="46" facs="tcp:119656:37"/>reproving and admoniſhing are moſtly meant by thoſe holy things and pearls, which our Saviour ſpeaks of; as M. <hi>Perkins</hi> and many others give the ſenſe of the place.</p>
+               <p>But now, if you take Doggs and Swine in Chriſt's own ſenſe (who muſt needs be the beſt expoſitor of his own meaning) for ſuch as will rent you, and trample upon thoſe pearls which you give them; ſee then the inconſe<g ref="char:EOLhyphen"/>quence of their inference: Thoſe whom they would exclude from theſe holy things and precious pearls in this Sa<g ref="char:EOLhyphen"/>crament, never offer to rent or tear thoſe that adminiſter them; but the contrary, they are ready to rent thoſe that refuſe adminiſtring to them, though not with their teeth, yet with their tongues, as many can teſtifie. And as for trampling theſe pearls under their feet, they are ſo far from it, as that they prize this above moſt other Ordi<g ref="char:EOLhyphen"/>nances, and have uſed to come more re<g ref="char:EOLhyphen"/>verently to it, than to any Ordinance whatſoever; carrying themſelvs worſe by far towards the Word preached, which as yet they are allowed to enjoy.</p>
+               <pb n="47" facs="tcp:119656:37"/>
+               <p>Moreover, let them take Doggs for whomſoever they will, provided they have this quality here mentioned by our Saviour, to be ready to rent thoſe that would give them this holy Supper, and there need be no controverſie in this caſe; for if they ſhould but offer ſuch an affront for adminiſtring theſe things unto them, we would not offer to give them; indeed we ſhould not need to trouble our ſelvs about them in this reſpect, becauſe they would not come to this Ordinance at all, as many now ſinfully refuſe, who hold us and our Miniſtrie Antichriſtian, and ſurely we are not ſo Popiſhly affected, as to carry it to their houſes, or carry it a<g ref="char:EOLhyphen"/>bout, and call upon them to adore it; as the Papiſts do their Hoſt, or Breaden god, which they call the Sacrament of the Altar.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> But ſome will ſay, Is not <hi>this Chil<g ref="char:EOLhyphen"/>drens bread, and therefore not to be given to Doggs,</hi> according to the ſaying of our Saviour, <hi>Mat.</hi> 15.26.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> 'Tis moſt true, it is indeed Childrens bread, and therefore not to be given unto Doggs: But who are Children in
+<pb n="48" facs="tcp:119656:38"/>that ſpeech of our Saviour? Even all thoſe that are of the Viſible Church, in oppoſition to thoſe that were not; for this Woman of whom he ſpake was a Gentile, and not a Proſelite; and the Jews in thoſe daies were onely of the Church, and ſo Children, how wicked ſoever; which is likewiſe manifeſt by Chriſt's foregoing words, <hi>ver.</hi> 24. I am not ſent, but to the loſt ſheep of the houſe of Iſrael: mark, even the loſt ſheep of the houſe of Iſrael, as well as thoſe that were already found, are rec<g ref="char:EOLhyphen"/>koned there to be the ſame with the Children: And conſequently Doggs, according to Chriſts meaning, muſt needs ſignifie there, ſuch as were not of the Viſible Church, or uncircumciſed; and ſo likewiſe thoſe are children a<g ref="char:EOLhyphen"/>mong us, who are received into the Vi<g ref="char:EOLhyphen"/>ſible Church, and Baptized, and have right unto Childrens bread, and can<g ref="char:EOLhyphen"/>not be counted Doggs in our Saviours ſenſe there, but onely Infidels and un<g ref="char:EOLhyphen"/>baptized are to be accounted ſuch, and not to receive this Sacrament in <hi>ſtatu quo.</hi>
+               </p>
+            </div>
+            <div n="6" type="case">
+               <head>Caſe. 6.</head>
+               <p>But will not this largeneſſe in Ad<g ref="char:EOLhyphen"/>miſſion
+<pb n="49" facs="tcp:119656:38"/>give offence to many of God's people, and cauſe them to ſeparate from us, and ſpeak evil of us, as if we were no true Churches.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Sol. </seg>
+                  </label> I anſwer; It is too common, even for holy ones, to take offence where none is given; and therefore we need to be as cautelous as we can, that we may give none occaſion in this cenſo<g ref="char:EOLhyphen"/>rious age; and I am confident if the cauſe be well examined, they that take offence at mixt Communions, as they call them, &amp; ſo ſeparate, have given far greater offence by the rents &amp; diviſions that they have made in our Churches, and yet count it their glory; though it be to the great grief of many godly ones, as well as ungodly; hindering their converſion; and opening the mouths both of Popiſh and prophane adverſaries; cauſing them to blaſpheme profeſſion, and Religion it ſelf.</p>
+               <p>And as for the truth of our Churches, I verily believe moſt of them are as pure and free from corruptions, as moſt of thoſe Churches of Aſia, to whom our Saviour ſent ſeveral Epiſtles, and called them all golden Candleſticks, <hi>Rev.</hi> 1.20.</p>
+               <pb n="50" facs="tcp:119656:39"/>
+               <p>The Church of <hi>Sardis,</hi> Rev. 3.1. <hi>had a name to live, and was dead;</hi> and the Church of <hi>Laodicea was neither cold, nor hot, but luke-warm,</hi> the worſt tem<g ref="char:EOLhyphen"/>per that could be in a Church, which made Chriſt ſo ſick of them, that hee was ready <hi>to ſpue them out of his mouth,</hi> Rev. 3.15, 16. There was nothing it ſeems commendable in them, elſe ſure<g ref="char:EOLhyphen"/>ly our Saviour would have taken no<g ref="char:EOLhyphen"/>tice of it, as he did in that of <hi>Sardis,</hi> ſaying, <hi>That they had a few names, that had not defiled their garments,</hi> Rev. 3.4. But it ſeems there were none among the Laodiceans, for if there had, why ſhould not Chriſt have incouraged them, as well as others? ſeeing he paſ<g ref="char:EOLhyphen"/>ſed an impartial cenſure, doubtleſſe, up<g ref="char:EOLhyphen"/>on them all.</p>
+               <p>And withall let it be obſerved, that Chriſt himſelfe doth not there make ſo much adoabout polluting of the ſacra<g ref="char:EOLhyphen"/>ment of the Lords Supper, more than about other Ordinances, which is now ſo much inſiſted on, and was then no doubt, as much defiled, if not more than among us, conſidering what groſſe corruptions ſome of them had, and
+<pb n="51" facs="tcp:119656:39"/>Chriſt ſet himſelfe of purpoſe to cor<g ref="char:EOLhyphen"/>rect whatſoever was moſt amiſs among them, and therein ſet us a perfect copy, how to reforme deformed Churches, commending the good, and condem<g ref="char:EOLhyphen"/>ing the bad; But we hear never a word, that they ſhould make a ſeparation, be<g ref="char:EOLhyphen"/>cauſe of the bad; but rather to rebuke, and ſo to reforme them.</p>
+               <p>
+                  <hi>Rev.</hi> 2.14. He condemneth the Church of <hi>Pergamos, becauſe ſhe had them that held the doctrine of Balaam, who taught Balaack to caſt a ſtumbling block before the Children of Iſrael, and to eat things ſacrificed to Idols, and commit for<g ref="char:EOLhyphen"/>nication, and the like,</hi> and thereupon bids them <hi>Repent, or elſe he will fight againſt them, with the ſword of his mouth,</hi> But never commands the good to ſeparate, although ſuch foul evils were tolerated amongſt them.</p>
+               <p>He alſo ſharply reproves the Church of <hi>Thyatyra, for ſuffering the Woman Jeza<g ref="char:EOLhyphen"/>bell, who called her ſelfe a propheteſſe, to teach and ſeduce his ſervants, to commit fornication, &amp;c.</hi> threatning her heavily. <hi>Rev.</hi> 2.20, 21, 22, 23. Yet not a word,
+<pb n="52" facs="tcp:119656:40"/>to the well affected of ſeparation, or any ſuch thing.</p>
+               <p>Laſtly we ſee plainly, that two many have fallen off to ſeparation, even where none have been admitted at all, &amp; that partly for fear, leaſt ſome ſhould take offence, and ſo ſeparate.</p>
+               <p>And as for thoſe that have ſeparated, becauſe they could not injoy ſuch pure and unmix't Communions among us, as they ſuppoſed, how feareſully have ſome of them fallen from one degree of ſeparation to another, till at laſt they have ſeparated not onely from all Churches, but from all Ordinances, and conſequently from all Religion alſo: Such is the giddineſſe of this age, by reaſon of the ſubtilty of ſome ſeducers, eſpecially Prieſts, and Jeſuites, that go under the name of gift<g ref="char:EOLhyphen"/>ed brethren, and teach them to blaſt all our Miniſters, and Miniſtry, as uſu<g ref="char:EOLhyphen"/>ally they do; That being the firſt thing they commonly teach!</p>
+               <p>Now when they have once begun to ſeparate from our Churches, and cen<g ref="char:EOLhyphen"/>ſure us and our Miniſtry, as Antichriſti<g ref="char:EOLhyphen"/>an,
+<pb n="53" facs="tcp:119656:40"/>ſome of them grow ſo ſelfe-con<g ref="char:EOLhyphen"/>ceited, and cenſorious, that no Church will hold them; but they ſoar aloſt a<g ref="char:EOLhyphen"/>bove all Ordinances, as carnall and low thinges: Yea the Scripture it ſelfe is counted but a dead letter, whereby ſome of them at laſt become worſe, than the worſt of thoſe they have ſo raſhly ſeparated from.</p>
+               <q>Quis talia fando temperet a lacrymis!</q>
+               <p>My very heart doth ſometimes bleed, to confider, how our fair hopes, which we had of many, have been by this meanes blaſted, and poor ſoules utterly undon, who (I am perſwaded) were well-meaning men and women: and with good intent entered upon that way of ſeparation, But we may ſee how dangerous it is, to be wiſe above that which is written, and more ſtrict then God's Word will warrant us, which I wiſh were well conſidered of all well-minded Chriſtians, leaſt they ruſh upon the ſame Rock.</p>
+               <p>For the Divell is never more dange<g ref="char:EOLhyphen"/>rous,
+<note place="margin">Mark this. 2 <hi>Cor.</hi> 11.</note> than when he transformes him<g ref="char:EOLhyphen"/>ſelf
+<pb n="54" facs="tcp:119656:41"/>into an Angell of light, as he hath uſually done in our dayes, and hath gotten great advantage againſt us by over-doing, as well as formerly by un<g ref="char:EOLhyphen"/>der-doing, as learned and zealous M. <hi>Baxter</hi> hath well obſerved.</p>
+               <p>This is as cleer as the Sun to thoſe that do not willfully wink, and ſhut their eyes. For when Satan ſaw, that the groſſe Superſtition and Idolatry in Altar-worſhip, and the like, brought in by ſome of the Biſhops, was quite quaſh't, and become odious, by the late Parliament, about the begining, and that a reformation was intended, and indeavoured, he than cuningly turned hands, and would turne Reformer al<g ref="char:EOLhyphen"/>ſo; But with full intent to deforme and overturne all, for whatſoever the Parliament began to <hi>do,</hi> he would be ſure to <hi>over-doe,</hi> that ſo he might <hi>undo</hi> whatſoever they had done.</p>
+               <p n="1">1. As for example, when the Parlia<g ref="char:EOLhyphen"/>ment went about to reforme our Churches, and repair the breacher, he'l have them utterly raced down to the ground, as Antichriſtian; and rebuilt
+<pb n="55" facs="tcp:119656:41"/>from the bottom, as if they were no true Churches at all.</p>
+               <p n="2">2. And when they ſought to reform the Miniſtry, and caſt out thoſe that were corrudted, being either ignorant or ſcandalous, he goes higher, and will have all pull'd down, Root &amp; Branch. Not onely Archbyſhops and Byſhops, but all Miniſters made by them whom<g ref="char:EOLhyphen"/>ſover. And when the Parlament pro<g ref="char:EOLhyphen"/>poſed, to mend the Miniſters mainte<g ref="char:EOLhyphen"/>nance, leaſt ſcandalous means ſhould make ſcandalous Miniſters; he would have them preach <hi>gratis,</hi> as the Apoſtls did, and ſtand to the peoples curteſie, and worke for their living, as the Ap<g ref="char:EOLhyphen"/>oſtle <hi>Paul</hi> and ſome others had done, and for this purpoſe raiſed up Preach<g ref="char:EOLhyphen"/>ers, of his own inſpiring end Ordain<g ref="char:EOLhyphen"/>ing; juſt as <hi>Jerobeam</hi> did, of the loweſt of the people, which were not of the ſuns of <hi>Levi.</hi> 1 <hi>Kings.</hi> 12.31. Who<g ref="char:EOLhyphen"/>ſoever would he conſecrated hlm, and he became one of the Prieſts of the high places. 1 <hi>Kings.</hi> 13.33. ſo he reſuſed no Methanicks, but incouraged them, and cryed them up, and not onely cryed down all other Preachers, but to this
+<pb n="56" facs="tcp:119656:42"/>end cryed down Tithes alſo, as Anti<g ref="char:EOLhyphen"/>chriſtian, and unjuſt. Though in the Scriptures the godlieſt men did firſt give them, to wit <hi>Abraham</hi> the Father of the faithfull, and <hi>Jacob,</hi> of whom came the twelve Tribes of Iſrael,
+<note place="margin">
+                     <hi>Abraham</hi> gave <hi>Melchize<g ref="char:EOLhyphen"/>deck</hi> tithes of all, <hi>Gen.</hi> 14.20. even of the ſpoiles, <hi>Heb.</hi> 7 2. &amp; 4. how unlike are thoſe Souldiers unto <hi>Abraham</hi> that would ſpoyle <hi>us of our Tithes,</hi> God al<g ref="char:EOLhyphen"/>lowed them not onely Tithes; but Offerings, and ſome of the ſacrifices, be<g ref="char:EOLhyphen"/>ſide 48 Cities, with their Suburbs.</note> and God himſelfe did afterwards in his wiſdom ſettle them, as his own portion upon his own tribe of <hi>Levi,</hi> which he choſe inſtead of the firſt-born, to do his ſpeciall ſervice.</p>
+               <p>By theſe meanes the Divell hath done more miſchief, then moſt can imagine; for he very wel knows, that take away main<g ref="char:EOLhyphen"/>tenance, and you take away Miniſtery. No man (ſaith the Apoſtle) goeth to warfare any time at his owne charges. 1 <hi>Cor.</hi> 9.7. Speaking of maintenance for Miniſters; Hence our gracious Lord and Maſter, gave his own Tribe of <hi>Levi</hi> very liberall allowance, even under the Law, for that adminiſtration, which was farre inferiour to ours under the Goſpell.</p>
+               <pb n="57" facs="tcp:119656:42"/>
+               <p>Again the Divel further knows, that take away Miniſters, and you ruine the Churches; as you do an Army by ta<g ref="char:EOLhyphen"/>king away their Commanders: becauſe Miniſters are the Churches <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Guides or rulers, Captains or Leaders, <hi>Heb.</hi> 13.7. &amp; 17. the Watchmen and Shepherds that muſt feed and defend the flock of Chriſt from Wolvs, which the Apoſtle fore-told would enter a<g ref="char:EOLhyphen"/>mong them, <hi>Act.</hi> 20.28, 29, 30, 31. And if we have neither Churches, nor Miniſters, we ſhall have in a while no Ordinances; and hence many came to be above Ordinances, (a moſt tranſ<g ref="char:EOLhyphen"/>cendent evil!) when once they had rejected our Miniſtry, and our Chur<g ref="char:EOLhyphen"/>ches. For I conceive, that if Satan's young Chaplains could have preached and praied as well as other Miniſters, they would not for ſhame have left off Ordinances, which they kept up for a time, uſurping the office of the Miniſtry, but at length left that, when they ſaw their own inabilities that way, and fell to aſcribe all to inward Revelations, and took thoſe Revela<g ref="char:EOLhyphen"/>tions, (which were doubtleſſe from
+<pb n="58" facs="tcp:119656:43"/>the Divel) to be divine dictates from the Holy Ghoſt, and as good, or ra<g ref="char:EOLhyphen"/>ther better than the holy Scriptures, which they found did not make for them, but rather flat againſt them; though ſometimes they would pretend Scripture to deceive ſilly ſouls.</p>
+               <p n="4">4. Again, when the Parlament would reform ſomthing about the Sa<g ref="char:EOLhyphen"/>crament of Baptiſme, Satan would ſtill go beyond them, and taught by his E<g ref="char:EOLhyphen"/>miſſaries, that all muſt be re-baptized that were baptized in their Infancie; neither ſhould that be adminiſtred to any, till they ſhould renounce our Churches and Miniſtry, and give a rea<g ref="char:EOLhyphen"/>ſon of their faith. By this means con<g ref="char:EOLhyphen"/>cluding our poor Infants to be in a far worſe condition, than the Infants of the Iſraelites, who were received into the Church by Circumciſion, and ours muſt be left without for lack of Bap<g ref="char:EOLhyphen"/>tiſme. And yet he ſtopped not here neither; but went yet higher with ſome, that they ſhould decry all water<g ref="char:EOLhyphen"/>baptiſme, that was but a carnal Ordi<g ref="char:EOLhyphen"/>nance; he will have them have none but ſpiritual-baptiſme, rejecting wa<g ref="char:EOLhyphen"/>ter-baptiſme
+<pb n="59" facs="tcp:119656:43"/>as need leſſe for them that had the Holy Ghoſt, when as the Apo<g ref="char:EOLhyphen"/>ſtle <hi>Peter,</hi> after he ſaw that the Gen<g ref="char:EOLhyphen"/>tiles had received the Holy Ghoſt, did thereupon baptize them, <hi>Acts</hi> 10.47. <hi>Can any man</hi> (ſaith he) <hi>forbid water, that theſe ſhould not be baptized, which have received the Holy Ghoſt, as well as we?</hi> Do not they then abſurdly forbid water-Baptiſme?</p>
+               <p n="5">5, Laſtly, when the Parlament in<g ref="char:EOLhyphen"/>tended to reform ſomthing in the Ad<g ref="char:EOLhyphen"/>miniſtration of the Lord's Supper, and to keep back the groſly ignorant and ſcandalous, that either could not, or would not improve that holy Sacra<g ref="char:EOLhyphen"/>ment to their ſpiritual advantage, he laboured to go ſtill beyond them, hee will have none admitted, but thoſe that may be judged truly gracious; and herein he ſeemed ſomething modeſt, and therefore he goes a little further, and would not admit of ſome, unleſſe they were firſt dip't, or rather duck'c over head and ears, as if it had been poſſible for <hi>John Bartiſt</hi> thus to have dealt with <hi>Jeruſalem</hi> and all <hi>Judea,</hi> and all the region round about <hi>Jordan,</hi>
+                  <pb n="60" facs="tcp:119656:44"/>who came to his Baptiſme, <hi>Mat.</hi> 3.5, 6. which had been more then an <hi>Hercule<g ref="char:EOLhyphen"/>an</hi> labour.</p>
+            </div>
+            <div n="3" type="consideration">
+               <head>Conſ. 3</head>
+               <p>In the next place I deſire, that it may be impartially conſidered, whether or no the Sacarment of the Lord's Supper, be not in ſome ſenſe, over highly eſtee<g ref="char:EOLhyphen"/>med amongſt many; I mean, eſpecial<g ref="char:EOLhyphen"/>ly in compariſon of other Ordinances, whether there be not a ſin on the right band, as well as on the left; that as ſome do under-value it, ſo others do over-value it. Indeed I have been long miſtaken, if ſome holy men have not (in a kind) idolized this holy Sacrament. I ſuppoſe that Popiſh Tranſubſtantia<g ref="char:EOLhyphen"/>tion, or at leaſt their idolatrous ado<g ref="char:EOLhyphen"/>ring of their Sacrament of the Altar, and alſo the very Altar whereon it is offered, did ariſe from ſome ſuch over<g ref="char:EOLhyphen"/>weening conceit, that ſome of the An<g ref="char:EOLhyphen"/>tients, or others had of this Sacrament. And what a world of wrangling, and ſea of blood hath been ſpent, in our own and other Nations, by reaſon of theſe errors that ſeem ſo plauſible, and to be done in honour to our Lord Jeſus Chriſt! In like manner the over high
+<pb n="61" facs="tcp:119656:44"/>conceit of the other Sacrament of Bap<g ref="char:EOLhyphen"/>tiſme begat great inconveniences a<g ref="char:EOLhyphen"/>mong the Antients; who judging that Baptiſme did actually waſh away all their ſins; and if they ſinned hainouſ<g ref="char:EOLhyphen"/>ly after Baptiſm, they could not ſo ea<g ref="char:EOLhyphen"/>ſily obtain remiſſion; and becauſe Baptiſme was not to be iterated, but onely once to be adminiſtred, there<g ref="char:EOLhyphen"/>fore they ſtaied from receiving Baptiſme a long time, that they might have the brunt of ſin over before it, by which it would be the better taken away, than by any other means. Now this too high conceit of Baptiſm, cauſed ſome dangerouſly to defer it, ſo that ſome Chriſtians (of good age) died unbapti<g ref="char:EOLhyphen"/>zed, and either never received the Lords Supper, or elſe received it diſorderly; for as no uncircumciſed perſon was to eat the Paſſeover, <hi>Exod.</hi> 12.48. ſo by conſequence none unbaptized ſhould receive the Supper.</p>
+               <p>I have not written this, as if I would that men ſhould have a mean eſteem of this holy Ordinance of the Lord's Sup<g ref="char:EOLhyphen"/>per; for I hold it very precious and ſo<g ref="char:EOLhyphen"/>veraign, and to be uſed with much re<g ref="char:EOLhyphen"/>verence,
+<pb n="62" facs="tcp:119656:45"/>Devotion, and thankfulneſſe; and therefore am very much grieved, that it hath been ſo much diſuſed in many Congregations; but I conceive, that ſo highly to priſe it above other Ordinances is very dangerous, produc<g ref="char:EOLhyphen"/>ing ſad effects, as we have ſeen. And I verely be ieve, that this preferring of it ſo much, as if it were of all others ſuch a <hi>Noli-me-tangere,</hi> and as if no other Ordinance could ſo defile, or be de filed, hath been on maine caſe of moſt of our late breaches amongſt bretheren in our Churches, when as the Word of God ſpeakes as much, if not more, againſt the profaning of other Ordinances<g ref="char:EOLhyphen"/>See, <hi>Prov.</hi> 28.9. <hi>He that turneth away his ear from hearing the law, even his prayer ſhall be abomination.</hi> and <hi>Iſa.</hi> 1.11, 12. <hi>&amp;c.</hi> And what reaſon can any man give, why a wicked man ſhould more defile another at this Sacrament then at other parts of God's worſhip?</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ob. </seg>
+                  </label> It is objected that at this Sacrament we propfeſſe our ſelves on body with them, which ſome dare not do with the wicked.</p>
+               <pb n="63" facs="tcp:119656:45"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> And do we not ſo, when we pray to the ſame God, our Common Father, in the ſame congregation with them?
+<note place="margin">
+                     <hi>See</hi> M. <hi>Balls</hi> Tryall of the grounds tending 10 ſepa<g ref="char:EOLhyphen"/>ration, <hi>page</hi> 200. 201. In<g ref="char:EOLhyphen"/>ternall and eſſenſuall com<g ref="char:EOLhyphen"/>munion we have with Chriſt and the faithfull onely externall with <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he wicked.</note> Were not all the Coogregation of Iſrael members of the ſame viſible Church, and called God's people by God himſelfe, though many among them noto<g ref="char:EOLhyphen"/>riouſly wicked? <hi>Pſal.</hi> 50.7. Heare O my people and I will ſpeake, O Iſrael, and I will teſtifie againſt thee I am God even thy God, and yet ſee what ſome of them were <hi>v.</hi> is 16. <hi>&amp;c.</hi> who then are we, that we ſhould utter<g ref="char:EOLhyphen"/>ly diſclaim them, before they utterly diſclaim him, and he hath given them a bill of Divorce? Hath it not been ſufficiently manifeſted, that the King<g ref="char:EOLhyphen"/>dom of Heaven. <hi>i.e.</hi> Chriſts viſible Church, is like a Field wherein tares muſt grow together with the Wheat, untill the harveſt, which is the end of the World? <hi>Mat.</hi> 13.24, 23. <hi>&amp;c.</hi> And alſo, that in the viſible Church many are called; But few choſen. <hi>Mat.</hi> 20.16.22.14.</p>
+               <pb n="64" facs="tcp:119656:46"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ob. </seg>
+                  </label> But doth not the Apoſtle ſay, that a little leaven leaveneth the whoſe lump? and therefore bids purge out the old leaven, that ye may be a new lump, ſpeaking of the inceſtuous perſon. 1 <hi>Cor.</hi> 5.6.7.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> True; he would have ſuch notori<g ref="char:EOLhyphen"/>ous, ſcandalous perſons, as the inceſtu<g ref="char:EOLhyphen"/>ous Corinthian was, to be purged out by excommunication, that yee may be a new lump, and becauſe Chriſt our Paſſeover is ſacrificed for us, but never bids you put out your ſelves from the Sacrament, more than from other Ordinances, if ſuch be not put out.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ob. </seg>
+                  </label> But doth he not ſay expreſly. <hi>v.</hi> 11. With ſuch a one,
+<label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> no not to eate. This muſt needs be meant of familiar eating, becauſe it is ſpoken by way of dimi<g ref="char:EOLhyphen"/>nution, and wherein one is more likely to be infected, than at the Sacramentall Supper.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ob. </seg>
+                  </label> And whereas it is urged hereupon with much confidence, That if we may not eat with them at our own table, much leſſe at Gods.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> It is a meer inconſequence, how ſtrong ſoever it may ſeem to weak Di<g ref="char:EOLhyphen"/>ſputants;
+<pb n="65" facs="tcp:119656:46"/>for I may and muſt do many things with wicked men in God's houſe, which I need not do with them in mine own. The Adverſaries will grant that I may, yea and muſt pray, and hear, and ſing with them in God's houſe, which I am not bound to do with them in mine own; I am left at li<g ref="char:EOLhyphen"/>berty in the one, but not in the o<g ref="char:EOLhyphen"/>ther.</p>
+            </div>
+            <div n="7" type="case">
+               <head>Caſe. 7.</head>
+               <p>But will not this gratifie the wicked, who are ſo much for this liberty, to come to the Sacrament of the Sup<g ref="char:EOLhyphen"/>per?</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Sol. </seg>
+                  </label> It will not gratifie them at all in their wicked waies, but in a comman<g ref="char:EOLhyphen"/>ded duty, which is incumbent upon them, as well as any other duty; for the ſinfulneſſe of man doth not diſ-ob<g ref="char:EOLhyphen"/>lige him from any duty, eſpecially be<g ref="char:EOLhyphen"/>ing part of God's worſhip, as this is. And by receiving them to the Sacra<g ref="char:EOLhyphen"/>ment, we more oblige and ingage them to other duties alſo; as to mortifie ſin, preſſing them to renew their repen<g ref="char:EOLhyphen"/>tance, becauſe by receiving this Sacra<g ref="char:EOLhyphen"/>ment, a Seal of the Covenant, we are to renew our Covenant with God, as
+<pb n="66" facs="tcp:119656:47"/>we deſire he ſhould renew it with us, by renewing his grace and bleſſings upon us; otherwiſe we tell them this Sacra<g ref="char:EOLhyphen"/>ment will but aggravate their ſins, and alſo their judgments, 1 <hi>Cor.</hi> 11.30. And therefore as thoſe whom <hi>John Bap<g ref="char:EOLhyphen"/>tiſt</hi> called, <hi>generation of vipers, Luk.</hi> 3.7. he notwitſtanding badtized them unto repentance, <hi>Mat.</hi> 3.11. <hi>i.e.</hi> to in<g ref="char:EOLhyphen"/>gage them more thereunto; for hee told them withall, That then <hi>the ax was laid to the root of the trees, to hew down every tree that brought not forth good fruit, and caſt it into the fire,</hi> ver. 10. ſo may wee adminiſter the Lord's Supper to men unto repentance, to perſwade them to bring forth fruit accordingly.</p>
+               <p>Hence I ſuppoſe, that thoſe Miniſters who neglect to adminiſter this Sacra<g ref="char:EOLhyphen"/>ment, deprive themſelves of a very for<g ref="char:EOLhyphen"/>cible argument, whereby they might perſwade men and women to ſound repentance; leaſt going on in their ſin after this Sacrament, they ſhould cru<g ref="char:EOLhyphen"/>cifie Chriſt afreſh, and put him to an open ſhame, as thoſe, <hi>Heb.</hi> 6.6.</p>
+               <p>In the next place I ſhall humbly de<g ref="char:EOLhyphen"/>ſire
+<pb n="67" facs="tcp:119656:47"/>my godly &amp; reverend Breathren of the Miniſtry, who have a long time deſiſted from celebrating this holy Supper, ſadly to conſider how unjuſtifiable their pra<g ref="char:EOLhyphen"/>ctiſeis in this particular, eſpecially if they ſhould ſtill perſiſt in ſuch a courſe. Many have hinted much in this particu<g ref="char:EOLhyphen"/>lar already, eſpecially learned &amp; labori<g ref="char:EOLhyphen"/>ous M. <hi>Blake,</hi> whoſe bookes of the Co<g ref="char:EOLhyphen"/>venant, and alſo of the Covenant ſeal'd, are of ſingular uſe for moſt Miniſters, that are at a loſſe in this regard, and the latter book eſpecially, being as <hi>a word ſpoken on the wheels</hi> to ſuch, as ju<g ref="char:EOLhyphen"/>dicious M. <hi>Vines</hi> hath it, in his Epiſtle before that book.</p>
+               <p>I wiſh withall, they would conſider, how unlike they are unto the Primi<g ref="char:EOLhyphen"/>tive practiſe, which celebrated this Supper every week, and for ſome time every day in the week, being ſo in love with the Lord Jeſus, whom they knew in the fleſh, and who had lately laid down his life for them; and becauſe they conceived that this would be, not onely profitable to themſelves; but pleaſing unto God, to keep ſuch an holy memoriall of Chriſt's death, and
+<pb n="68" facs="tcp:119656:48"/>paſſion, certainly they were not ſo ſcrupulous as many are in theſe days, about admiſſion.</p>
+               <p>
+                  <hi>And if you conſult learned and laborious</hi> M. Mede.
+<note place="margin">M. Mede <hi>vol.</hi> 1. <hi>pag</hi> 495. &amp;c. as alſo <hi>p.</hi> 500. &amp;c.</note> 
+                  <hi>he will aſſure you, that the ancient Churches in their publick meet<g ref="char:EOLhyphen"/>ings, did ſo commemorate the ſacrifice of Chriſt in celebrating this Supper, as that they thought it an eſpeciall means to make all other ſervices accepted; and to that purpoſe alledgeth divers teſtimonies, of</hi> Tertullian, <hi>and others, and among the reſt</hi> Origen. Hom. 3. <hi>on</hi> Levit. <hi>where treating of the ſhew-bread, which was con<g ref="char:EOLhyphen"/>tinually ſet before the LORD with in<g ref="char:EOLhyphen"/>cenſe, for a memoriall; that is to put GOD in mind of them, he makes it in this reſpect to have been a lively figure of the Chriſti<g ref="char:EOLhyphen"/>ans Euchariſt, for ſaith he,</hi> Iſta eſt com<g ref="char:EOLhyphen"/>memoratio ſola, quae propitium facit Deum hominibus. <hi>Thus far, and much more to this purpoſe, ſaith M. Mede.</hi> Sit fides penes Authorem.</p>
+               <p>If this be true, as his Authors ſeem to prove, then judge you what we our ſelves, and our Churches have loſt, for lack of this Ordinance; and you may well conceive, that it is no marvail, if
+<pb n="69" facs="tcp:119656:48"/>God forget to do us ſo much good for Chriſt's ſake, as otherwiſe he would do, and hath formerly done, when we for<g ref="char:EOLhyphen"/>get, or neglect to put him in mind of that propitiatory ſacrifice of his dear Son, by celebrating his ſacred Supper, Ordained for this very end to be a ſpeciall memoriall of his meritorious death, that he himſelfe might be mindfull of us, and mercifull unto us.</p>
+            </div>
+            <div n="5" type="consideration">
+               <head>Conſid. 5.</head>
+               <p>Furthermore let it be conſidered, that the main buſineſs of the work of the Miniſtery, ſhould be the converſion of ſouls, to bring them from darkneſs to light, &amp; from the power of Satan unto God. <hi>Acts.</hi> 26.18. Now by non-admini<g ref="char:EOLhyphen"/>ſtration of this Sacrament, we greatly diſtaſte a great many, if not moſt that are not really converted, whereby our Miniſtry is made more contemptible, &amp; odious, than otherwiſe it would be, and ſo leſſe effectuall, eſpecially to ſuch as ſtand in moſt need of it. And thoſe that adminiſter, and admit only a few, refuſing a great many, they give farr greater diſtaſte, and cauſe them to harden their hearts againſt them and
+<pb n="70" facs="tcp:119656:49"/>their doctrin, and make them harken to any hedg-prieſt, that will ſow pil<g ref="char:EOLhyphen"/>lows under their armeholes, and ſooth them in their ſinnes, rather then ſeek to convert them, to the great prejudice of their poor ſoules.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> And whereas ſome ſuppoſe, that ſtaying for a while may increaſe their appetite, and make them more hunger after it.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> I anſwer, that faſting indeed a little while may do ſo, but long faſting quite loſeth on's ſtomack, and wee ſee by ſad experience that it hath done ſo in this very thing, for a great many, who were earneſt for it formerly, are now grown cold, and care not for it, being either ſullen, or ſenſleſſe of their owne my<g ref="char:EOLhyphen"/>ſery.</p>
+               <p>Again,
+<note place="margin">Thas is wel known to all anci<g ref="char:EOLhyphen"/>ent, and conſcienti<g ref="char:EOLhyphen"/>ous Mini<g ref="char:EOLhyphen"/>ſters.</note> by hindering ſo many from comming to this ſacrament, we deprive our ſelves of a great advantage, that formerly we had of the yonger ſort, by way of Chatechizing them befose they come to the Communion. For where Miniſters were conſciencious and la<g ref="char:EOLhyphen"/>borious, the Younger ſort eſpecially did uſually reſort unto them (not only
+<pb n="71" facs="tcp:119656:49"/>to pay their Offerings as ſome object) but chiefly to be examined and in<g ref="char:EOLhyphen"/>ſtructed in the grounds of Religion, at leaſt once a year, which made them more mind their Catechiſmes, that now are wholly laid aſide, by moſt of them, ſo that they know nothing in matters of Salvation, but are like Hea<g ref="char:EOLhyphen"/>thens.</p>
+               <p>Moreover by this meanes we had a fair oportunity to faſten ſo wholeſom exhortations upon them, for their ſoules health; to make them conſider their waies, and walke worthy of this holy Sacrament: and therefore to a<g ref="char:EOLhyphen"/>void the common corruptions of the times, as drunkenneſſe, ſwearing, pro<g ref="char:EOLhyphen"/>faning the Sabbath: and the like evill courſes, and alſo evill Company, the bane of thouſands.</p>
+               <p>All which oportunities are now loſt, in regard of moſt, who will not come to be catechized, becauſe they cannot come to the Sacrament: And we have no power to compell them.</p>
+            </div>
+            <div n="8" type="case">
+               <head>Caſe. 8</head>
+               <p>But will not this harden them in their ſinnes, to receive ſo many to this Sacrament; as ſom imagine?</p>
+               <pb n="72" facs="tcp:119656:50"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Sol. </seg>1</label> I judge it rather a meanes to make them conſider their waies, and con<g ref="char:EOLhyphen"/>vince them of their ſins, and ſo con<g ref="char:EOLhyphen"/>vert them, and bring them home unto God, as I have formerly proved.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Sol. </seg>2</label> Secondly, I ſuppoſe this will no more harden them in ſin, than their admiſſion to all other Ordinances, un<g ref="char:EOLhyphen"/>leſſe it be becauſe ſome erroneouſly conceive, that this Sacrament belongs onely to thoſe that have true grace, which fancy hath been fully con<g ref="char:EOLhyphen"/>futed.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Sol. </seg>3</label> Thirdly, we ſee too palpably, that men are more hardened in ſin, ſince this Sacrament hath been ſo ſequeſtred, (as I may ſay) than formerly, when they were more generally admitted. And I verely believe, that the generall excluſi<g ref="char:EOLhyphen"/>on of ſo many from this holy Supper, doth, and will, much more harden their hearts, than generall admiſſion of all Church-members, in the greateſt latitude.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Sol. </seg>4</label> Laſtly, Add hereunto, that we ſee by experience, in the Countrey, that thoſe who are kept from this Sacrament wax <hi>wild;</hi> and grow more careleſſe of all
+<pb n="73" facs="tcp:119656:50"/>Religion; and on the other ſide, thoſe few that are by ſom admitted, when o<g ref="char:EOLhyphen"/>thers are excluded, wax <hi>wanton,</hi> &amp; ſom of them ſo ſwel with ſelf-conceit, that they preſume to teach their Teachers, and lead their leaders: Thinking themſelves too good, to be under any Officers, and ſo have forſaken their own, and all other Churches, and their Teachers, and turned Mountebanks: and ſet up themſelves above all others whatſo<g ref="char:EOLhyphen"/>ever, which is two apparent, both in Old and New England; Witneſſe the <hi>Seekers, Quakers, Ranters,</hi> and other Rebells againſt God and man.</p>
+            </div>
+            <div n="9" type="case">
+               <head>Caſe 9.</head>
+               <p>But is not this Sacrament (as ſome ſay) a priviledg that belongs not to Babes, but to ſtrong men, that are able to digeſt ſtrong meat, ſuch as this Sacrament is.</p>
+               <p>It is indeed a priviledg of the Church, and belongs only to Church-members, no unbaptiſed may eat there<g ref="char:EOLhyphen"/>of, as no uncirumciſed might eat of the Paſſeover. <hi>Exod.</hi> 12.48. It is alſo a duty as well as a priviledg, which all of yeares are bound to performe, that
+<pb n="74" facs="tcp:119656:51"/>are baptized, as M. <hi>Perkins</hi> ſaith in his Caſes of Conſcience.</p>
+               <p>And that it is not ſtrong meat,
+<note place="margin">
+                     <hi>Perk.</hi> Ca<g ref="char:EOLhyphen"/>ſes of Con<g ref="char:EOLhyphen"/>ſcience <hi>lib.</hi> 2. <hi>page</hi> 95. <hi>fol.</hi>
+                  </note> but even milk for Babes in Religion, I ſhall eaſily evince. My reaſon is, becauſe it is one of the moſt ſenſible Ordinances which Chriſtians have, as Baptiſme is the other; becauſe, (as all Authen<g ref="char:EOLhyphen"/>tick Authors grant) in theſe outward viſible Ceremonies, God is ſaid more to ſtoup to our capacityes, and to help our infirmityes; ſeeing hereby he teacheth us, not onely by the ear, but by other ſenſes; as by ſeeing, and Taſt<g ref="char:EOLhyphen"/>ing; Senſes that farr more affect the ignorant, than hearing.</p>
+               <q>
+                  <l>
+                     <hi>Segnius irritant amimos dimiſſa per aures,</hi>
+                  </l>
+                  <l>
+                     <hi>Quam quae ſunt oculis ſubjecta fidelibus.</hi>
+                  </l>
+               </q>
+               <q>
+                  <l>Things ſlower move the mind ſent by the ear,</l>
+                  <l>Than thoſe made to the faithful eyes appear.</l>
+               </q>
+            </div>
+            <div n="6" type="case">
+               <head>Caſe. 6.</head>
+               <p>In the laſt place let it be well weigh<g ref="char:EOLhyphen"/>ed, how thoſe Miniſters can anſwer it
+<pb n="75" facs="tcp:119656:51"/>to God and their owne Conſciences, for neglecting ſuch an eſpeciall part of their Miniſteriall Office, as the admi<g ref="char:EOLhyphen"/>niſtration of the Euchariſt is,
+<label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> and was ever held to be. If they ſhall ſtill reply, It is becauſe they fear they ſhal do more hurt than good to many ſoules, offend<g ref="char:EOLhyphen"/>ing tender conſciences, and the like;</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> I anſwer, if that which I have ſaid cannot give ſatisfaction, yet let me per<g ref="char:EOLhyphen"/>ſwade them, to be reſtleſſe, till they be more fully reſolved; I am very ſenſible of your ſad condition, as having been in the ſame perplexity my ſelfe, but I have now by God's gracious aſſiſtance arrived to ſuch a plerophory in moſt of theſe things, that I find abundance of ſatisfaction in mine own Spirit; and therefore I do the more pity my bre<g ref="char:EOLhyphen"/>then, that want ſatisfaction in this par<g ref="char:EOLhyphen"/>ticular, which is one of the main rea<g ref="char:EOLhyphen"/>ſons, that hath moved me to take this matter in hand.</p>
+            </div>
+            <div type="conclusion">
+               <p>Now whereas I know, you are afraid of offending others by your adminiſtring, I know alſo, that it is unavoidable in any duty almoſt, that we do in this cryticall age,
+<pb n="76" facs="tcp:119656:52"/>therefore I pray you conſider, how great offence on the other ſide, is given by your non-adminiſtration, and juſtly taken, whereas the former Offence is likely to be taken where none is juſtly given, and we are charged to give no offence to any, neither to the Jewes, nor to the Gentiles, nor to the Church of God; 1 <hi>Cor.</hi> 10.32. But for more full ſatisfaction in this caſe, what a ſin it is, and how much offence it gives, to neglect this adminiſtration, I refer it to M.
+<note place="margin">See his Book in 8. <hi>v. pag.</hi> 11.12. <hi>&amp;c.</hi>
+                  </note> 
+                  <hi>Jeanes,</hi> who hath both largely, and learnedly handled this particular. And thus much ſhall ſuffice concerning the conſiderations, and caſes of Conſci<g ref="char:EOLhyphen"/>ence. I will conclude with a few mo<g ref="char:EOLhyphen"/>tives, to ſtir up my ſelf and others to a more frequent and conſcionable cele<g ref="char:EOLhyphen"/>bration of this holy Supper.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Motive </seg>1</label> Firſt, becauſe the keeping of the Paſſe<g ref="char:EOLhyphen"/>over ſolemnly, though but outwardly of many, was a meanes to free all the Families of the Iſraelites from having their firſt borne deſtroyed from the E<g ref="char:EOLhyphen"/>gyptians: So may the keeping of this Supper, that ſucceeds the Paſſeover, be
+<pb n="77" facs="tcp:119656:52"/>a means to preſerv us from common ca<g ref="char:EOLhyphen"/>lamities, ſeeing our Sacraments are not leſſe; but rather more effectuall than theirs, and withal conſidering that this is an approved way of renewing our Covenant with God, and God's renew<g ref="char:EOLhyphen"/>ing his Covenant with us, when we keep this, <hi>Epulum Foederale:</hi> This feaſt of the Covenant, or Covenant-feaſt; where God ſeales his covenant to us, to be our God, and to take care of us, as Confederates do one for another.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Motive </seg>2</label> Secondly, if many <hi>were ſick, and weak, and ſome dyed;</hi> becauſe of the ſin of unworthy receiving, as we ſee, 1 <hi>Cor.</hi> 11.30. Their ſin and judgments cannot be ſmall, that altogether omit this holy duty.</p>
+               <p>For it is a ruled caſe, that the willing neglect of good duties is a greater ſin, than the weak performance of them. I do verily believe, that many abſtain out of meer conſcience, fearing that they ſhould do more hurt than good, but <hi>Conſcientia erronea non obli gat.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Motive </seg>3</label> Thirdly it is without queſtion; and
+<pb n="78" facs="tcp:119656:53"/>granted on all ſides, that it is a duty neceſſarily incumbent upon a Miniſter of the Goſpel, to adminiſter this Sacrament, being a ſpeciall part of GOD's publick worſhip; but it is queſti<g ref="char:EOLhyphen"/>oned by moſt, and flatly de<g ref="char:EOLhyphen"/>nyed by many, both learned and godly men; that a ſingle Miniſter hath power of himſelfe to ſuſpend a ſcandalous perſon from the Sacrament. Therefore it muſt needs be ſafer for a Miniſter to do that, which is his certain duty, than neglect it wholly, and ſo in a kind ſuſpend all, good and bad, worthy as well as un<g ref="char:EOLhyphen"/>worthy.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Motive, </seg>4</label> Laſtly, the often Celebration of this ſacred Supper, tends much to the glory of GOD, and the Churches good; becauſe here<g ref="char:EOLhyphen"/>in is a thankful acknowledgment of CHRST crucified for us, and alſo a putting GOD the Father in mind of <hi>CHRIST'S</hi> Death (as ſome ſuppoſe) and
+<pb n="79" facs="tcp:119656:53"/>of his Covenant of grace, ſealed with his Sons blood, and alſo a renewing our Covenant with GOD, as was formerly ſaid, that he may renew his grace and mercy upon us: Which things are of ſingular uſe.</p>
+               <p>Wherefore let us lament, and lay to heart our former great neglect, and labour for time to come to be more faithfull and frequent in adminiſtration of this holy Supper, as without all Popiſh ſuperſtiti<g ref="char:EOLhyphen"/>on, ſo with all reverence, and godly ſimplicity; which I take to be the main defect in thoſe Corinthians, that received ſo un<g ref="char:EOLhyphen"/>worthily.</p>
+               <p>And as for thoſe that are ſo apt to Cenſure in this caſe, let mee commend to them the A<g ref="char:EOLhyphen"/>poſtles practiſe, in that 1 <hi>Cor.</hi> 11. When they had much tranſgreſſed in unworthy receiving, and for which GOD had grievouſly judged them, he never blames the Miniſter for admitting them,
+<pb n="80" facs="tcp:119656:54"/>but biddeth every one <hi>Examine himſelfe, and ſo eat,</hi> verſe, 28. and tell's them. <hi>ver.</hi> 31. <hi>If they would judg themſelves, they ſhould not be judged of the LORD.</hi> This, this is the right way to refor<g ref="char:EOLhyphen"/>mation, To ceaſe judging o<g ref="char:EOLhyphen"/>thers, and fall more cloſely to judging of our ſelves. There was never more judging of o<g ref="char:EOLhyphen"/>thers, and leſſe judging of men's ſelves. If men would more judge themſelves, they would certain<g ref="char:EOLhyphen"/>ly judge others leſſe, and ſo ſooner eſcape the juſt judgments of GOD. <hi>Matthew,</hi> 7.1. See <hi>Romans,</hi> 14.10. <hi>Why doeſt thou judge thy brother? Wee muſt all ſtand before the judg<g ref="char:EOLhyphen"/>ment ſeat of CHRIST:</hi> And verſe. 13. <hi>Let us not there<g ref="char:EOLhyphen"/>fore judg one another any more, but judg this rather, that no man put a ſtumbling block, or an occaſion to fall in his bro<g ref="char:EOLhyphen"/>thers way:</hi> Romans. 15.5.6. <hi>Now the GOD of patience
+<pb n="81" facs="tcp:119656:54"/>and conſolation, grant us to be like minded one towards another, according to CHRIST Jeſus, that we may with one mind, and one mouth glorify GOD, even the Father of our LORD Jeſus CHRIST,</hi>
+               </p>
+               <closer>Amen.</closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <trailer>
+               <figure>
+                  <figDesc>printer's device(?)</figDesc>
+               </figure>
+            </trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:119656:55"/>
+            <head>ERRATA.</head>
+            <p>In the Title Page, line 17. read. <hi>Paſtore</hi> for <hi>Patore,</hi> in the Epiſtle to the Reader, pag. 8. line, 17. for <hi>Suſpicious,</hi> r. <hi>ſuperſtitious,</hi> p. 10. l 20. for <hi>theſe,</hi> r. <hi>the,</hi> p. 11. l. 3. for <hi>not,</hi> r. <hi>but,</hi> in the <hi>Advertiſement,</hi> p. 6, l. 4. and 5. for <hi>rege<g ref="char:EOLhyphen"/>nerated,</hi> r. <hi>regeneration,</hi> p. laſt. <hi>l.</hi> 3. r. and ſo I leave. In the Book it ſelfe, page, 2. line, 26. put our <hi>there,</hi> p. 15. l. 26. for <hi>convert,</hi> r. <hi>correct.</hi> p. 19. l. 10. after <hi>reproved,</hi> add the word, <hi>them.</hi> p. 33 l. 12. after <hi>now,</hi> add <hi>if.</hi> p. 34. l. 1. for <hi>thou</hi> r. <hi>jou,</hi> p. 35. l. 16. for <hi>ſaith,</hi> r. <hi>ſay,</hi> p. 4. l. 28. put out, <hi>at,</hi> p. 46. l. laſt, put out, <hi>as.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:119656:55"/>
+            <head>BOOKS Printed for <hi>Joſeph Cran<g ref="char:EOLhyphen"/>ford,</hi> at the <hi>Kings Head</hi> in St. <hi>Paules Church Yard</hi>
+            </head>
+            <p>ΠΑΝΘΕΟΛΟΓΙΑ <hi>or the</hi> Sume <hi>of</hi> Practical DIVINITY, <hi>Practi<g ref="char:EOLhyphen"/>ſed in the Wilderneſs, and Deliver<g ref="char:EOLhyphen"/>ed by our</hi> Saviour <hi>in his Sermon on the Mount, being Obſervations on the</hi> fourth, fifth, ſixth, <hi>and</hi> ſe<g ref="char:EOLhyphen"/>venth Chapters <hi>of S.</hi> Matthew: <hi>to which is prefixed</hi> PROLEGO<g ref="char:EOLhyphen"/>MENA, <hi>or</hi> Preface, <hi>by way of Dialogue: wherein the perfection and Perſpicuity of the</hi> Scripture <hi>is vindicated from the Calumnies of</hi> Anabaptiſts <hi>and</hi> Papiſts: <hi>By</hi> Tho<g ref="char:EOLhyphen"/>mas White, <hi>Miniſter of Gods Word at</hi> Anne Alderſgate. London.</p>
+            <pb facs="tcp:119656:56"/>
+            <p>ANIMADVERSIONS, <hi>or the</hi> Rabinical Talmud of RABBI John Rogers: <hi>Wherein is Exami<g ref="char:EOLhyphen"/>ned his Doctrine, as of the.</hi>
+               <list>
+                  <item>
+                     <hi>Matter of a</hi> Church <hi>The duty of Se<g ref="char:EOLhyphen"/>paration.</hi>
+                  </item>
+                  <item>
+                     <hi>Form of a</hi> Church <hi>The ſubjects of Church power.</hi>
+                  </item>
+               </list> &amp;c. <hi>By</hi> Zach. Crofton, <hi>Miniſter of God's Word at</hi> James Garlick Hythe, London.</p>
+            <p>A VINDICATION <hi>of the</hi> Anſwer <hi>to M.</hi> Brabourn <hi>concern<g ref="char:EOLhyphen"/>ing the Civil Magiſtrates Power, as to changing</hi> Church-Govern<g ref="char:EOLhyphen"/>ment: <hi>Wherein the Reverend M.</hi> Perkins, <hi>and ſome Truthes of God, are vindicated from the Lyes and ſcurrilcus expreſſions caſt upon them. By</hi> John Collings <hi>Miniſter of Gods Word in</hi> Norwich.</p>
+            <p>
+               <hi>The</hi> Patterne <hi>of</hi> Patience, <hi>in the Example of Holy</hi> Job; <hi>a</hi> Para<g ref="char:EOLhyphen"/>phraſe, <hi>upon the whole</hi> Book, <hi>be<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:119656:56"/>an expedient to ſweeten the miſeries of theſe (never enough to be lamented) times.</hi>
+            </p>
+            <p>
+               <hi>The</hi> Husbands Authority <hi>
+                  <g ref="char:V">Ʋ</g>nvailed, wherein is moderately diſcuſſed, whether it be fit, or lawfull, for a goodman to beat his bad Wife.</hi>
+            </p>
+            <p>
+               <hi>A Method and inſtructions for the Art of Divine meditation, with inſtances of the ſeverall kindes of ſolemne Meditation. By</hi> Thomas White <hi>Miniſter of God's Word in London.</hi>
+            </p>
+            <p>Enchiridion Medicum: <hi>Containing the cauſes, ſigns, and cures of all thoſe diſ<g ref="char:EOLhyphen"/>eaſes, that do chiefly affect the body of man: divided into three Books. With Alphabetical Tables of ſuch matters as are therein contained. Whereunto is ad<g ref="char:EOLhyphen"/>ded a Treatiſe,</hi> De facultatibus medi<g ref="char:EOLhyphen"/>camentorum compoſitorum, &amp; do<g ref="char:EOLhyphen"/>ſibus. <hi>By</hi> Robert Bayfield, <hi>Doctor of Phyſick in the City of</hi> Norwich.</p>
+            <p>
+               <hi>The</hi> Crown of Righteouſneſſe, <hi>by</hi> Tho. Watſon <hi>Miniſter of Stephen Walbrook</hi> London.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
